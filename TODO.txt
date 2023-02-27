@@ -1,0 +1,28 @@
+- Assembly drawing output from Kicad (urgh)
+
+
+Rob call:
+- Parts - getting here
+- Bare boards 
+- Assembly
+- End of line test
+- Validation of R2
+- Budget
+- 
+
+
+Testing:
+
+USB : test type-C to type-C : fail
+Display : OK
+Radio : Configuration works, tx *might* work, but not confirmed. No RF activity seen
+Touch : OK
+Haptics: OK
+Sound : Fail. Some deep mystery.
+ESP32 : OK, but it's the 4Mb version
+SD : OK 
+Buttons, joystick : OK
+LEDs : OK : TODO: buy some SK6812's?
+Charging : OK 
+SAO connector : OK 
+Antenna testing : Tom?
