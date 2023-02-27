@@ -1,5 +1,7 @@
 .~lock*
 fp-info-cache
-tr20-cache.lib
 *-bak
 _autosave*
+*-backups
+\#*
+*kicad_prl
