@@ -1475,7 +1475,7 @@
     (property "Footprint" "jeffmakes-footprints:USB-A-short-body" (at 74.93 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "Datasheet" "Standard A type 4 pin Horizontal 3 µin Plating SMT USB 2.0 Jack" (at 74.93 132.08 0)
+    (property "Datasheet" " ~" (at 74.93 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Field4" "CUI Inc." (at 74.93 132.08 0)
@@ -1804,9 +1804,9 @@
     (pin "B6" (uuid b59a842c-4d2b-418c-8969-807ea6f5042c))
     (pin "B7" (uuid 6495d34c-ac04-42f3-97f6-30598979ae9d))
     (pin "B8" (uuid c7a773c6-1622-4581-9a2e-88392585848d))
-    (pin "SH" (uuid 60cdc8f5-0b73-4e1d-825f-3b5fd459b4e9))
-    (pin "SH" (uuid bb51cad2-5344-4eda-b12c-61e7b3365038))
-    (pin "SH" (uuid 8c58b25a-d405-4442-9cf0-3841829c921a))
+    (pin "SH" (uuid e435aee1-c1bb-48ad-8b40-510bef6dad03))
+    (pin "SH" (uuid e435aee1-c1bb-48ad-8b40-510bef6dad03))
+    (pin "SH" (uuid e435aee1-c1bb-48ad-8b40-510bef6dad03))
     (pin "SH" (uuid e435aee1-c1bb-48ad-8b40-510bef6dad03))
     (instances
       (project "tr23-badge-r1"

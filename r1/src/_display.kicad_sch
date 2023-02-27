@@ -1552,7 +1552,7 @@
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (at 148.59 109.855 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
-    (property "Datasheet" "https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf" (at 143.51 107.95 0)
+    (property "Datasheet" "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" (at 143.51 107.95 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (pin "1" (uuid 732c1dc9-1feb-4baa-bee7-520edbea19ec))

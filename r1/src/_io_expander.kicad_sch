@@ -1307,7 +1307,7 @@
     (property "Value" " JS1400BFQ" (at 166.37 88.2904 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "jeffmakes-footprints:SW_JS1400BFQ-arrows" (at 166.37 97.79 0)
+    (property "Footprint" "SW_JS1400BFQ" (at 166.37 97.79 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "E-Switch" (at 166.37 97.79 0)
