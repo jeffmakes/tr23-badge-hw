@@ -516,7 +516,7 @@
           (name "VIN" (effects (font (size 1.27 1.27))))
           (number "3" (effects (font (size 1.27 1.27))))
         )
-        (pin power_out line (at 8.89 -1.27 180) (length 2.54)
+        (pin passive line (at 8.89 -1.27 180) (length 2.54)
           (name "VOUT" (effects (font (size 1.27 1.27))))
           (number "4" (effects (font (size 1.27 1.27))))
         )
@@ -1233,7 +1233,7 @@
     (uuid 4b258e8c-c79a-48f1-9bd0-2b107838ca3e)
   )
 
-  (label "~{PWR_EN}" (at 163.83 111.76 90)
+  (label "~{PWR_EN}" (at 163.83 111.76 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 270d0af9-e138-4073-a04a-fdd4f8ece9fb)
   )
