@@ -2221,7 +2221,7 @@
     (property "Value" "PJ-320D" (at 244.602 89.5096 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "jeffmakes_footprints:USB-A-short-body-in-cutout-type-strenghening-vias" (at 236.22 90.17 0)
+    (property "Footprint" "jeffmakes_footprints:Jack_3.5mm_PJ320D_Horizontal_strengthening-vias" (at 236.22 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 236.22 90.17 0)
