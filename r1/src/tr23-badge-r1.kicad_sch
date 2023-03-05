@@ -2825,7 +2825,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 234.95 82.55 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005decad34)
-    (property "Reference" "TP37" (at 230.1748 81.3816 90)
+    (property "Reference" "TP33" (at 230.1748 81.3816 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "~" (at 230.1748 83.693 90)
@@ -2841,7 +2841,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6"
-          (reference "TP37") (unit 1)
+          (reference "TP33") (unit 1)
         )
       )
     )

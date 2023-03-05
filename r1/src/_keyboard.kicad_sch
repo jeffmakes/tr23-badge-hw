@@ -1016,7 +1016,7 @@
   (symbol (lib_id "power:GND") (at 168.91 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 010adfea-1d2e-4a33-a0bf-3647c6ce4830)
-    (property "Reference" "#PWR0134" (at 168.91 139.7 0)
+    (property "Reference" "#PWR0111" (at 168.91 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 168.91 138.43 0)
@@ -1032,7 +1032,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0134") (unit 1)
+          (reference "#PWR0111") (unit 1)
         )
       )
     )
@@ -1061,7 +1061,7 @@
           (reference "C75") (unit 1)
         )
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "C32") (unit 1)
+          (reference "C40") (unit 1)
         )
       )
     )
@@ -1070,7 +1070,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 245.11 77.47 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 080671a1-fa27-48cb-9bb6-ad2adc825353)
-    (property "Reference" "SW16" (at 246.38 76.835 90)
+    (property "Reference" "SW30" (at 246.38 76.835 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 246.38 79.375 90)
@@ -1089,7 +1089,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW16") (unit 1)
+          (reference "SW30") (unit 1)
         )
       )
     )
@@ -1098,7 +1098,7 @@
   (symbol (lib_id "power:GND") (at 214.63 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0bc13eec-a38e-43f8-8558-8d839719a2cb)
-    (property "Reference" "#PWR0139" (at 214.63 114.3 0)
+    (property "Reference" "#PWR0122" (at 214.63 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 214.63 113.03 0)
@@ -1114,7 +1114,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0139") (unit 1)
+          (reference "#PWR0122") (unit 1)
         )
       )
     )
@@ -1123,7 +1123,7 @@
   (symbol (lib_id "power:GND") (at 245.11 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0cffe23a-3dd1-4eae-9402-63756f09b303)
-    (property "Reference" "#PWR079" (at 245.11 63.5 0)
+    (property "Reference" "#PWR0128" (at 245.11 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 245.11 62.23 0)
@@ -1139,7 +1139,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR079") (unit 1)
+          (reference "#PWR0128") (unit 1)
         )
       )
     )
@@ -1148,7 +1148,7 @@
   (symbol (lib_id "power:GND") (at 55.88 55.88 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 126f7316-5fc2-4a36-b55b-f2a6ae6d6a79)
-    (property "Reference" "#PWR0149" (at 49.53 55.88 0)
+    (property "Reference" "#PWR092" (at 49.53 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 52.07 55.88 90)
@@ -1164,7 +1164,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0149") (unit 1)
+          (reference "#PWR092") (unit 1)
         )
       )
     )
@@ -1173,7 +1173,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 168.91 128.27 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1325bf6e-37a2-477d-a224-877c6fd515f9)
-    (property "Reference" "SW22" (at 170.18 127.635 90)
+    (property "Reference" "SW12" (at 170.18 127.635 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 170.18 130.175 90)
@@ -1192,7 +1192,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW22") (unit 1)
+          (reference "SW12") (unit 1)
         )
       )
     )
@@ -1201,7 +1201,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 199.39 128.27 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 15e01095-13a5-42e7-ab9b-ce274a7cea87)
-    (property "Reference" "SW26" (at 200.66 127.635 90)
+    (property "Reference" "SW20" (at 200.66 127.635 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 200.66 130.175 90)
@@ -1220,7 +1220,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW26") (unit 1)
+          (reference "SW20") (unit 1)
         )
       )
     )
@@ -1254,7 +1254,7 @@
   (symbol (lib_id "power:GND") (at 153.67 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 193ff36e-8217-429b-9d27-cdda5e1c3c25)
-    (property "Reference" "#PWR0132" (at 153.67 139.7 0)
+    (property "Reference" "#PWR0107" (at 153.67 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 153.67 138.43 0)
@@ -1270,7 +1270,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0132") (unit 1)
+          (reference "#PWR0107") (unit 1)
         )
       )
     )
@@ -1279,7 +1279,7 @@
   (symbol (lib_id "power:GND") (at 55.88 129.54 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1aa96bfa-426c-4018-8bff-45b01cd9a799)
-    (property "Reference" "#PWR0151" (at 49.53 129.54 0)
+    (property "Reference" "#PWR095" (at 49.53 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 52.07 129.54 90)
@@ -1295,7 +1295,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0151") (unit 1)
+          (reference "#PWR095") (unit 1)
         )
       )
     )
@@ -1304,7 +1304,7 @@
   (symbol (lib_id "power:GND") (at 184.15 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1f69c9cc-c915-4a84-b2e0-6cbd2577a1b3)
-    (property "Reference" "#PWR0136" (at 184.15 139.7 0)
+    (property "Reference" "#PWR0115" (at 184.15 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 184.15 138.43 0)
@@ -1320,7 +1320,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0136") (unit 1)
+          (reference "#PWR0115") (unit 1)
         )
       )
     )
@@ -1329,7 +1329,7 @@
   (symbol (lib_id "power:GND") (at 138.43 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 22bef07c-c3c4-4e9d-a3e3-182e55f08200)
-    (property "Reference" "#PWR036" (at 138.43 63.5 0)
+    (property "Reference" "#PWR0100" (at 138.43 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 138.43 62.23 0)
@@ -1345,7 +1345,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR036") (unit 1)
+          (reference "#PWR0100") (unit 1)
         )
       )
     )
@@ -1354,7 +1354,7 @@
   (symbol (lib_id "power:GND") (at 245.11 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2592d54c-8b19-46ee-bbc5-356b1aa9aa0d)
-    (property "Reference" "#PWR0144" (at 245.11 139.7 0)
+    (property "Reference" "#PWR0131" (at 245.11 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 245.11 138.43 0)
@@ -1370,7 +1370,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0144") (unit 1)
+          (reference "#PWR0131") (unit 1)
         )
       )
     )
@@ -1379,7 +1379,7 @@
   (symbol (lib_id "power:GND") (at 153.67 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2c9d54a0-eddd-404d-bb33-84526bcac535)
-    (property "Reference" "#PWR0131" (at 153.67 114.3 0)
+    (property "Reference" "#PWR0106" (at 153.67 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 153.67 113.03 0)
@@ -1395,7 +1395,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0131") (unit 1)
+          (reference "#PWR0106") (unit 1)
         )
       )
     )
@@ -1404,7 +1404,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 138.43 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2d5de343-d905-431b-8a08-37454e9ef84b)
-    (property "Reference" "SW17" (at 139.7 102.235 90)
+    (property "Reference" "SW3" (at 139.7 102.235 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 139.7 104.775 90)
@@ -1423,7 +1423,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW17") (unit 1)
+          (reference "SW3") (unit 1)
         )
       )
     )
@@ -1432,7 +1432,7 @@
   (symbol (lib_id "j_Interface_Expansion:PCA9555") (at 72.39 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2f990112-0e5b-4c01-8faf-1718c74f7de9)
-    (property "Reference" "U10" (at 74.3459 111.76 0)
+    (property "Reference" "U8" (at 74.3459 111.76 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PCA9555PW" (at 74.3459 114.3 0)
@@ -1480,7 +1480,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "U10") (unit 1)
+          (reference "U8") (unit 1)
         )
       )
     )
@@ -1489,7 +1489,7 @@
   (symbol (lib_id "j_Interface_Expansion:PCA9555") (at 72.39 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 30e952d4-38ab-41c5-a05c-f4cf77bd2113)
-    (property "Reference" "U6" (at 74.3459 38.1 0)
+    (property "Reference" "U7" (at 74.3459 38.1 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PCA9555PW" (at 74.3459 40.64 0)
@@ -1537,7 +1537,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "U6") (unit 1)
+          (reference "U7") (unit 1)
         )
       )
     )
@@ -1546,7 +1546,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 229.87 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 344533c0-b99f-44e6-88ff-b0afae5fa1ed)
-    (property "Reference" "SW29" (at 231.14 102.235 90)
+    (property "Reference" "SW27" (at 231.14 102.235 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 231.14 104.775 90)
@@ -1565,7 +1565,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW29") (unit 1)
+          (reference "SW27") (unit 1)
         )
       )
     )
@@ -1602,7 +1602,7 @@
   (symbol (lib_id "power:GND") (at 199.39 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 380062fd-d104-4960-a69a-e39d511742c3)
-    (property "Reference" "#PWR071" (at 199.39 63.5 0)
+    (property "Reference" "#PWR0116" (at 199.39 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 199.39 62.23 0)
@@ -1618,7 +1618,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR071") (unit 1)
+          (reference "#PWR0116") (unit 1)
         )
       )
     )
@@ -1646,7 +1646,7 @@
           (reference "#PWR038") (unit 1)
         )
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0145") (unit 1)
+          (reference "#PWR096") (unit 1)
         )
       )
     )
@@ -1655,7 +1655,7 @@
   (symbol (lib_id "power:GND") (at 184.15 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3fa4e573-0f88-4d4f-940d-341011e528ff)
-    (property "Reference" "#PWR0135" (at 184.15 114.3 0)
+    (property "Reference" "#PWR0114" (at 184.15 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 184.15 113.03 0)
@@ -1671,7 +1671,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0135") (unit 1)
+          (reference "#PWR0114") (unit 1)
         )
       )
     )
@@ -1680,7 +1680,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 184.15 77.47 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 45244e77-4d6e-454a-91e0-54cae4392dff)
-    (property "Reference" "SW12" (at 185.42 76.835 90)
+    (property "Reference" "SW14" (at 185.42 76.835 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 185.42 79.375 90)
@@ -1699,7 +1699,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW12") (unit 1)
+          (reference "SW14") (unit 1)
         )
       )
     )
@@ -1708,7 +1708,7 @@
   (symbol (lib_id "power:GND") (at 138.43 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4b49f2d3-d29e-4d37-b53c-b6af7a5851ef)
-    (property "Reference" "#PWR0121" (at 138.43 114.3 0)
+    (property "Reference" "#PWR0102" (at 138.43 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 138.43 113.03 0)
@@ -1724,7 +1724,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0121") (unit 1)
+          (reference "#PWR0102") (unit 1)
         )
       )
     )
@@ -1733,7 +1733,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 184.15 52.07 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 517f4f60-1e34-4165-a51e-70bd23555e90)
-    (property "Reference" "SW4" (at 185.42 51.435 90)
+    (property "Reference" "SW13" (at 185.42 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 185.42 53.975 90)
@@ -1752,7 +1752,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW4") (unit 1)
+          (reference "SW13") (unit 1)
         )
       )
     )
@@ -1761,7 +1761,7 @@
   (symbol (lib_id "power:GND") (at 214.63 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5483e6f8-c045-4612-8984-f45f6dd386d7)
-    (property "Reference" "#PWR0112" (at 214.63 88.9 0)
+    (property "Reference" "#PWR0121" (at 214.63 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 214.63 87.63 0)
@@ -1777,7 +1777,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0112") (unit 1)
+          (reference "#PWR0121") (unit 1)
         )
       )
     )
@@ -1786,7 +1786,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 214.63 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 59f77d5f-3f21-4897-b028-92a61bf8fde0)
-    (property "Reference" "SW27" (at 215.9 102.235 90)
+    (property "Reference" "SW23" (at 215.9 102.235 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 215.9 104.775 90)
@@ -1805,7 +1805,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW27") (unit 1)
+          (reference "SW23") (unit 1)
         )
       )
     )
@@ -1814,7 +1814,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 214.63 77.47 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5ca824f6-b196-42c1-b3c5-b2ca5b45af65)
-    (property "Reference" "SW14" (at 215.9 76.835 90)
+    (property "Reference" "SW22" (at 215.9 76.835 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 215.9 79.375 90)
@@ -1833,7 +1833,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW14") (unit 1)
+          (reference "SW22") (unit 1)
         )
       )
     )
@@ -1861,7 +1861,7 @@
           (reference "#PWR038") (unit 1)
         )
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0150") (unit 1)
+          (reference "#PWR091") (unit 1)
         )
       )
     )
@@ -1870,7 +1870,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 184.15 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 77ee3278-dede-422a-b803-6ea1c5dd21d6)
-    (property "Reference" "SW23" (at 185.42 102.235 90)
+    (property "Reference" "SW15" (at 185.42 102.235 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 185.42 104.775 90)
@@ -1889,7 +1889,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW23") (unit 1)
+          (reference "SW15") (unit 1)
         )
       )
     )
@@ -1898,7 +1898,7 @@
   (symbol (lib_id "power:GND") (at 153.67 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 83e504eb-6c24-4f7f-84b6-bb2f508833aa)
-    (property "Reference" "#PWR062" (at 153.67 63.5 0)
+    (property "Reference" "#PWR0104" (at 153.67 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 153.67 62.23 0)
@@ -1914,7 +1914,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR062") (unit 1)
+          (reference "#PWR0104") (unit 1)
         )
       )
     )
@@ -1943,7 +1943,7 @@
           (reference "C75") (unit 1)
         )
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "C31") (unit 1)
+          (reference "C39") (unit 1)
         )
       )
     )
@@ -1952,7 +1952,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 245.11 52.07 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8a4795cd-8a52-4068-bacd-46dab0bc18d8)
-    (property "Reference" "SW8" (at 246.38 51.435 90)
+    (property "Reference" "SW29" (at 246.38 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 246.38 53.975 90)
@@ -1971,7 +1971,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW8") (unit 1)
+          (reference "SW29") (unit 1)
         )
       )
     )
@@ -1980,7 +1980,7 @@
   (symbol (lib_id "power:GND") (at 55.88 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8d97b1e2-0a60-4e12-911b-b6a57b31ba47)
-    (property "Reference" "#PWR0146" (at 55.88 120.65 0)
+    (property "Reference" "#PWR093" (at 55.88 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 55.88 119.38 0)
@@ -1996,7 +1996,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0146") (unit 1)
+          (reference "#PWR093") (unit 1)
         )
       )
     )
@@ -2005,7 +2005,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 153.67 77.47 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 92172cf1-339c-4ac8-82ce-e26ef13a9eff)
-    (property "Reference" "SW10" (at 154.94 76.835 90)
+    (property "Reference" "SW6" (at 154.94 76.835 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 154.94 79.375 90)
@@ -2024,7 +2024,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW10") (unit 1)
+          (reference "SW6") (unit 1)
         )
       )
     )
@@ -2033,7 +2033,7 @@
   (symbol (lib_id "power:GND") (at 229.87 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 94a19759-80a5-4193-8a83-4c7b06a05474)
-    (property "Reference" "#PWR073" (at 229.87 63.5 0)
+    (property "Reference" "#PWR0124" (at 229.87 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 62.23 0)
@@ -2049,7 +2049,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR073") (unit 1)
+          (reference "#PWR0124") (unit 1)
         )
       )
     )
@@ -2058,7 +2058,7 @@
   (symbol (lib_id "power:GND") (at 72.39 162.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9538a3a4-a22b-4c33-b0fd-b3eb97ec13c1)
-    (property "Reference" "#PWR0148" (at 72.39 168.91 0)
+    (property "Reference" "#PWR099" (at 72.39 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 72.39 167.64 0)
@@ -2074,7 +2074,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0148") (unit 1)
+          (reference "#PWR099") (unit 1)
         )
       )
     )
@@ -2111,7 +2111,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 214.63 128.27 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 972d7e60-f8ce-4939-ac5b-3d27707bcf06)
-    (property "Reference" "SW28" (at 215.9 127.635 90)
+    (property "Reference" "SW24" (at 215.9 127.635 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 215.9 130.175 90)
@@ -2130,7 +2130,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW28") (unit 1)
+          (reference "SW24") (unit 1)
         )
       )
     )
@@ -2139,7 +2139,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 138.43 77.47 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 988ca712-be41-4c6e-846a-3770e99d8dcf)
-    (property "Reference" "SW9" (at 139.7 76.835 90)
+    (property "Reference" "SW2" (at 139.7 76.835 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 139.7 79.375 90)
@@ -2158,7 +2158,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW9") (unit 1)
+          (reference "SW2") (unit 1)
         )
       )
     )
@@ -2167,7 +2167,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 229.87 77.47 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9bc7aa32-ef64-48d5-b4f3-10eb49d13f1c)
-    (property "Reference" "SW15" (at 231.14 76.835 90)
+    (property "Reference" "SW26" (at 231.14 76.835 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 231.14 79.375 90)
@@ -2186,7 +2186,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW15") (unit 1)
+          (reference "SW26") (unit 1)
         )
       )
     )
@@ -2195,7 +2195,7 @@
   (symbol (lib_id "power:GND") (at 199.39 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9c8205c3-82d6-40c8-a424-04d66430d50f)
-    (property "Reference" "#PWR0111" (at 199.39 88.9 0)
+    (property "Reference" "#PWR0117" (at 199.39 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 199.39 87.63 0)
@@ -2211,7 +2211,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0111") (unit 1)
+          (reference "#PWR0117") (unit 1)
         )
       )
     )
@@ -2220,7 +2220,7 @@
   (symbol (lib_id "power:GND") (at 168.91 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9ded936c-383b-48fe-9e2c-f90dce890c57)
-    (property "Reference" "#PWR069" (at 168.91 63.5 0)
+    (property "Reference" "#PWR0108" (at 168.91 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 168.91 62.23 0)
@@ -2236,7 +2236,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR069") (unit 1)
+          (reference "#PWR0108") (unit 1)
         )
       )
     )
@@ -2245,7 +2245,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 153.67 52.07 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a29388f8-611a-4411-8cf8-fafc2246d1c9)
-    (property "Reference" "SW2" (at 154.94 51.435 90)
+    (property "Reference" "SW5" (at 154.94 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 154.94 53.975 90)
@@ -2264,7 +2264,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW2") (unit 1)
+          (reference "SW5") (unit 1)
         )
       )
     )
@@ -2301,7 +2301,7 @@
   (symbol (lib_id "power:GND") (at 214.63 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a37ef719-77b9-4b4d-9a9b-529c5ac4d295)
-    (property "Reference" "#PWR0140" (at 214.63 139.7 0)
+    (property "Reference" "#PWR0123" (at 214.63 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 214.63 138.43 0)
@@ -2317,7 +2317,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0140") (unit 1)
+          (reference "#PWR0123") (unit 1)
         )
       )
     )
@@ -2326,7 +2326,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 168.91 77.47 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid abf8ecec-01fb-4f1a-9b4e-31d4ba293808)
-    (property "Reference" "SW11" (at 170.18 76.835 90)
+    (property "Reference" "SW10" (at 170.18 76.835 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 170.18 79.375 90)
@@ -2345,7 +2345,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW11") (unit 1)
+          (reference "SW10") (unit 1)
         )
       )
     )
@@ -2354,7 +2354,7 @@
   (symbol (lib_id "power:GND") (at 184.15 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b23177ee-6ecb-4d9e-a359-941a99151bd0)
-    (property "Reference" "#PWR0110" (at 184.15 88.9 0)
+    (property "Reference" "#PWR0113" (at 184.15 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 184.15 87.63 0)
@@ -2370,7 +2370,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0110") (unit 1)
+          (reference "#PWR0113") (unit 1)
         )
       )
     )
@@ -2379,7 +2379,7 @@
   (symbol (lib_id "power:GND") (at 214.63 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b28b9ea3-93eb-44ab-9c7c-f4eb33cfea4c)
-    (property "Reference" "#PWR072" (at 214.63 63.5 0)
+    (property "Reference" "#PWR0120" (at 214.63 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 214.63 62.23 0)
@@ -2395,7 +2395,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR072") (unit 1)
+          (reference "#PWR0120") (unit 1)
         )
       )
     )
@@ -2404,7 +2404,7 @@
   (symbol (lib_id "power:GND") (at 184.15 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b4aafce0-ce95-419b-aa25-72fe53e9ccfd)
-    (property "Reference" "#PWR070" (at 184.15 63.5 0)
+    (property "Reference" "#PWR0112" (at 184.15 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 184.15 62.23 0)
@@ -2420,7 +2420,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR070") (unit 1)
+          (reference "#PWR0112") (unit 1)
         )
       )
     )
@@ -2429,7 +2429,7 @@
   (symbol (lib_id "power:GND") (at 229.87 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bb329a11-418f-45f8-95f5-217e8d8d1d07)
-    (property "Reference" "#PWR0113" (at 229.87 88.9 0)
+    (property "Reference" "#PWR0125" (at 229.87 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 87.63 0)
@@ -2445,7 +2445,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0113") (unit 1)
+          (reference "#PWR0125") (unit 1)
         )
       )
     )
@@ -2454,7 +2454,7 @@
   (symbol (lib_id "power:GND") (at 168.91 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c12290d0-c1b0-48a0-a8fd-d33c3e9aa736)
-    (property "Reference" "#PWR0133" (at 168.91 114.3 0)
+    (property "Reference" "#PWR0110" (at 168.91 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 168.91 113.03 0)
@@ -2470,7 +2470,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0133") (unit 1)
+          (reference "#PWR0110") (unit 1)
         )
       )
     )
@@ -2479,7 +2479,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 229.87 128.27 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c1d00e72-b2ea-49d4-ab0f-3cf5c337fbf8)
-    (property "Reference" "SW30" (at 231.14 127.635 90)
+    (property "Reference" "SW28" (at 231.14 127.635 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 231.14 130.175 90)
@@ -2498,7 +2498,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW30") (unit 1)
+          (reference "SW28") (unit 1)
         )
       )
     )
@@ -2507,7 +2507,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 184.15 128.27 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c26d3050-e7d1-4237-8aea-5c8b6e07012e)
-    (property "Reference" "SW24" (at 185.42 127.635 90)
+    (property "Reference" "SW16" (at 185.42 127.635 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 185.42 130.175 90)
@@ -2526,7 +2526,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW24") (unit 1)
+          (reference "SW16") (unit 1)
         )
       )
     )
@@ -2535,7 +2535,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 168.91 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c3d20487-f6ef-4c45-851e-b2d8e0f53801)
-    (property "Reference" "SW21" (at 170.18 102.235 90)
+    (property "Reference" "SW11" (at 170.18 102.235 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 170.18 104.775 90)
@@ -2554,7 +2554,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW21") (unit 1)
+          (reference "SW11") (unit 1)
         )
       )
     )
@@ -2582,7 +2582,7 @@
           (reference "#PWR038") (unit 1)
         )
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0154") (unit 1)
+          (reference "#PWR098") (unit 1)
         )
       )
     )
@@ -2591,7 +2591,7 @@
   (symbol (lib_id "power:GND") (at 55.88 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c7545130-3f14-4b7f-9169-1a34abe673f0)
-    (property "Reference" "#PWR0153" (at 55.88 46.99 0)
+    (property "Reference" "#PWR090" (at 55.88 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 55.88 45.72 0)
@@ -2607,7 +2607,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0153") (unit 1)
+          (reference "#PWR090") (unit 1)
         )
       )
     )
@@ -2616,7 +2616,7 @@
   (symbol (lib_id "power:GND") (at 138.43 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c9ad3f9e-8491-4bf6-9c81-61c346c38f14)
-    (property "Reference" "#PWR0130" (at 138.43 139.7 0)
+    (property "Reference" "#PWR0103" (at 138.43 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 138.43 138.43 0)
@@ -2632,7 +2632,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0130") (unit 1)
+          (reference "#PWR0103") (unit 1)
         )
       )
     )
@@ -2641,7 +2641,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 138.43 128.27 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cd4f553b-8cb4-4d78-84df-55473c606488)
-    (property "Reference" "SW18" (at 139.7 127.635 90)
+    (property "Reference" "SW4" (at 139.7 127.635 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 139.7 130.175 90)
@@ -2660,7 +2660,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW18") (unit 1)
+          (reference "SW4") (unit 1)
         )
       )
     )
@@ -2669,7 +2669,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 214.63 52.07 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ceea7790-b348-4789-bea9-ba139b15b41e)
-    (property "Reference" "SW6" (at 215.9 51.435 90)
+    (property "Reference" "SW21" (at 215.9 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 215.9 53.975 90)
@@ -2688,7 +2688,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW6") (unit 1)
+          (reference "SW21") (unit 1)
         )
       )
     )
@@ -2697,7 +2697,7 @@
   (symbol (lib_id "power:GND") (at 245.11 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d305ead6-0742-40d4-8dd1-258ddfb60e5f)
-    (property "Reference" "#PWR0114" (at 245.11 88.9 0)
+    (property "Reference" "#PWR0129" (at 245.11 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 245.11 87.63 0)
@@ -2713,7 +2713,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0114") (unit 1)
+          (reference "#PWR0129") (unit 1)
         )
       )
     )
@@ -2722,7 +2722,7 @@
   (symbol (lib_id "power:GND") (at 72.39 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dd139359-1269-4c40-8a1f-4e96619d4fbd)
-    (property "Reference" "#PWR0147" (at 72.39 95.25 0)
+    (property "Reference" "#PWR097" (at 72.39 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 72.39 93.98 0)
@@ -2738,7 +2738,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0147") (unit 1)
+          (reference "#PWR097") (unit 1)
         )
       )
     )
@@ -2747,7 +2747,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 153.67 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dd541875-7b8a-426e-95f8-9594add9e5db)
-    (property "Reference" "SW19" (at 154.94 102.235 90)
+    (property "Reference" "SW7" (at 154.94 102.235 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 154.94 104.775 90)
@@ -2766,7 +2766,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW19") (unit 1)
+          (reference "SW7") (unit 1)
         )
       )
     )
@@ -2775,7 +2775,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 199.39 52.07 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid de844cfa-f728-4c64-9613-4b120ef08975)
-    (property "Reference" "SW5" (at 200.66 51.435 90)
+    (property "Reference" "SW17" (at 200.66 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 200.66 53.975 90)
@@ -2794,7 +2794,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW5") (unit 1)
+          (reference "SW17") (unit 1)
         )
       )
     )
@@ -2822,7 +2822,7 @@
           (reference "#PWR038") (unit 1)
         )
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0152") (unit 1)
+          (reference "#PWR094") (unit 1)
         )
       )
     )
@@ -2831,7 +2831,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 153.67 128.27 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e54c887e-3ed5-48d4-8404-f8fed25584bf)
-    (property "Reference" "SW20" (at 154.94 127.635 90)
+    (property "Reference" "SW8" (at 154.94 127.635 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 154.94 130.175 90)
@@ -2850,7 +2850,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW20") (unit 1)
+          (reference "SW8") (unit 1)
         )
       )
     )
@@ -2859,7 +2859,7 @@
   (symbol (lib_id "power:GND") (at 199.39 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e9c97f7d-5fa8-4869-91a6-8cca816fd730)
-    (property "Reference" "#PWR0138" (at 199.39 139.7 0)
+    (property "Reference" "#PWR0119" (at 199.39 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 199.39 138.43 0)
@@ -2875,7 +2875,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0138") (unit 1)
+          (reference "#PWR0119") (unit 1)
         )
       )
     )
@@ -2884,7 +2884,7 @@
   (symbol (lib_id "power:GND") (at 138.43 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid edb573b5-95a3-4188-a6a2-a318e4027213)
-    (property "Reference" "#PWR080" (at 138.43 88.9 0)
+    (property "Reference" "#PWR0101" (at 138.43 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 138.43 87.63 0)
@@ -2900,7 +2900,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR080") (unit 1)
+          (reference "#PWR0101") (unit 1)
         )
       )
     )
@@ -2909,7 +2909,7 @@
   (symbol (lib_id "power:GND") (at 199.39 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eedfd6df-ca12-4553-b02e-8a39a8fcfe49)
-    (property "Reference" "#PWR0137" (at 199.39 114.3 0)
+    (property "Reference" "#PWR0118" (at 199.39 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 199.39 113.03 0)
@@ -2925,7 +2925,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0137") (unit 1)
+          (reference "#PWR0118") (unit 1)
         )
       )
     )
@@ -2934,7 +2934,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 229.87 52.07 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f0ae03e1-ba7b-4c28-9c2f-84ae70b96c4b)
-    (property "Reference" "SW7" (at 231.14 51.435 90)
+    (property "Reference" "SW25" (at 231.14 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 231.14 53.975 90)
@@ -2953,7 +2953,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW7") (unit 1)
+          (reference "SW25") (unit 1)
         )
       )
     )
@@ -2962,7 +2962,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 199.39 77.47 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f4a1ada2-6591-4349-92b7-603a97de9332)
-    (property "Reference" "SW13" (at 200.66 76.835 90)
+    (property "Reference" "SW18" (at 200.66 76.835 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 200.66 79.375 90)
@@ -2981,7 +2981,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW13") (unit 1)
+          (reference "SW18") (unit 1)
         )
       )
     )
@@ -2990,7 +2990,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 168.91 52.07 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f4afb2a2-bd51-4de7-9a85-07929580731d)
-    (property "Reference" "SW3" (at 170.18 51.435 90)
+    (property "Reference" "SW9" (at 170.18 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 170.18 53.975 90)
@@ -3009,7 +3009,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW3") (unit 1)
+          (reference "SW9") (unit 1)
         )
       )
     )
@@ -3018,7 +3018,7 @@
   (symbol (lib_id "power:GND") (at 153.67 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f653f08f-c905-4d3f-8f2f-1aba832076d1)
-    (property "Reference" "#PWR081" (at 153.67 88.9 0)
+    (property "Reference" "#PWR0105" (at 153.67 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 153.67 87.63 0)
@@ -3034,7 +3034,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR081") (unit 1)
+          (reference "#PWR0105") (unit 1)
         )
       )
     )
@@ -3043,7 +3043,7 @@
   (symbol (lib_id "power:GND") (at 229.87 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f9f4d4e6-d2d0-4014-b0a0-a34886727b6f)
-    (property "Reference" "#PWR0142" (at 229.87 139.7 0)
+    (property "Reference" "#PWR0127" (at 229.87 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 138.43 0)
@@ -3059,7 +3059,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0142") (unit 1)
+          (reference "#PWR0127") (unit 1)
         )
       )
     )
@@ -3068,7 +3068,7 @@
   (symbol (lib_id "power:GND") (at 245.11 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fa5e0cc0-d676-40aa-96d9-4007f3f0ae69)
-    (property "Reference" "#PWR0143" (at 245.11 114.3 0)
+    (property "Reference" "#PWR0130" (at 245.11 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 245.11 113.03 0)
@@ -3084,7 +3084,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0143") (unit 1)
+          (reference "#PWR0130") (unit 1)
         )
       )
     )
@@ -3093,7 +3093,7 @@
   (symbol (lib_id "power:GND") (at 229.87 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fcec88c9-2294-4148-9892-ad13574d4f21)
-    (property "Reference" "#PWR0141" (at 229.87 114.3 0)
+    (property "Reference" "#PWR0126" (at 229.87 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 113.03 0)
@@ -3109,7 +3109,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "#PWR0141") (unit 1)
+          (reference "#PWR0126") (unit 1)
         )
       )
     )
@@ -3118,7 +3118,7 @@
   (symbol (lib_id "Switch:SW_MEC_5G") (at 199.39 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fe7cf45e-1a00-4666-a0c1-23bbe0cc3c49)
-    (property "Reference" "SW25" (at 200.66 102.235 90)
+    (property "Reference" "SW19" (at 200.66 102.235 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "REV_TACT" (at 200.66 104.775 90)
@@ -3137,7 +3137,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/9721eadd-b680-4464-a2f1-ffddf831eebf"
-          (reference "SW25") (unit 1)
+          (reference "SW19") (unit 1)
         )
       )
     )

@@ -1509,7 +1509,7 @@
   (symbol (lib_id "Device:C") (at 129.54 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd621b4)
-    (property "Reference" "C51" (at 132.461 52.1716 0)
+    (property "Reference" "C48" (at 132.461 52.1716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47nF" (at 132.461 54.483 0)
@@ -1529,7 +1529,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C51") (unit 1)
+          (reference "C48") (unit 1)
         )
       )
     )
@@ -1538,7 +1538,7 @@
   (symbol (lib_id "Device:C") (at 139.7 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd62f15)
-    (property "Reference" "C53" (at 142.621 52.1716 0)
+    (property "Reference" "C51" (at 142.621 52.1716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47nF" (at 142.621 54.483 0)
@@ -1558,7 +1558,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C53") (unit 1)
+          (reference "C51") (unit 1)
         )
       )
     )
@@ -1567,7 +1567,7 @@
   (symbol (lib_id "Device:C") (at 149.86 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd63383)
-    (property "Reference" "C56" (at 152.781 52.1716 0)
+    (property "Reference" "C53" (at 152.781 52.1716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47nF" (at 152.781 54.483 0)
@@ -1587,7 +1587,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C56") (unit 1)
+          (reference "C53") (unit 1)
         )
       )
     )
@@ -1596,7 +1596,7 @@
   (symbol (lib_id "Device:C") (at 160.02 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd6364c)
-    (property "Reference" "C58" (at 162.941 52.1716 0)
+    (property "Reference" "C56" (at 162.941 52.1716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47nF" (at 162.941 54.483 0)
@@ -1616,7 +1616,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C58") (unit 1)
+          (reference "C56") (unit 1)
         )
       )
     )
@@ -1625,7 +1625,7 @@
   (symbol (lib_id "Device:C") (at 170.18 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd67c22)
-    (property "Reference" "C62" (at 173.101 52.1716 0)
+    (property "Reference" "C59" (at 173.101 52.1716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47nF" (at 173.101 54.483 0)
@@ -1645,7 +1645,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C62") (unit 1)
+          (reference "C59") (unit 1)
         )
       )
     )
@@ -1654,7 +1654,7 @@
   (symbol (lib_id "Device:C") (at 180.34 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd67c28)
-    (property "Reference" "C65" (at 183.261 52.1716 0)
+    (property "Reference" "C62" (at 183.261 52.1716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47nF" (at 183.261 54.483 0)
@@ -1674,7 +1674,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C65") (unit 1)
+          (reference "C62") (unit 1)
         )
       )
     )
@@ -1683,7 +1683,7 @@
   (symbol (lib_id "Device:C") (at 190.5 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd67c2e)
-    (property "Reference" "C67" (at 193.421 52.1716 0)
+    (property "Reference" "C64" (at 193.421 52.1716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47nF" (at 193.421 54.483 0)
@@ -1703,7 +1703,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C67") (unit 1)
+          (reference "C64") (unit 1)
         )
       )
     )
@@ -1712,7 +1712,7 @@
   (symbol (lib_id "Device:C") (at 200.66 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd67c34)
-    (property "Reference" "C69" (at 203.581 52.1716 0)
+    (property "Reference" "C66" (at 203.581 52.1716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47nF" (at 203.581 54.483 0)
@@ -1732,7 +1732,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C69") (unit 1)
+          (reference "C66") (unit 1)
         )
       )
     )
@@ -1741,7 +1741,7 @@
   (symbol (lib_id "Device:C") (at 210.82 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd67d02)
-    (property "Reference" "C71" (at 213.741 52.1716 0)
+    (property "Reference" "C68" (at 213.741 52.1716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47nF" (at 213.741 54.483 0)
@@ -1761,7 +1761,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C71") (unit 1)
+          (reference "C68") (unit 1)
         )
       )
     )
@@ -1770,7 +1770,7 @@
   (symbol (lib_id "Device:C") (at 160.02 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd76597)
-    (property "Reference" "C59" (at 162.941 87.7316 0)
+    (property "Reference" "C57" (at 162.941 87.7316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47nF" (at 162.941 90.043 0)
@@ -1790,7 +1790,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C59") (unit 1)
+          (reference "C57") (unit 1)
         )
       )
     )
@@ -1799,7 +1799,7 @@
   (symbol (lib_id "Device:C") (at 170.18 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd76ca2)
-    (property "Reference" "C63" (at 173.101 87.7316 0)
+    (property "Reference" "C60" (at 173.101 87.7316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47nF" (at 173.101 90.043 0)
@@ -1819,7 +1819,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C63") (unit 1)
+          (reference "C60") (unit 1)
         )
       )
     )
@@ -1828,7 +1828,7 @@
   (symbol (lib_id "Device:C") (at 180.34 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd77092)
-    (property "Reference" "C66" (at 183.261 87.7316 0)
+    (property "Reference" "C63" (at 183.261 87.7316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10nF" (at 183.261 90.043 0)
@@ -1845,7 +1845,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C66") (unit 1)
+          (reference "C63") (unit 1)
         )
       )
     )
@@ -1854,7 +1854,7 @@
   (symbol (lib_id "Device:C") (at 190.5 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd7743c)
-    (property "Reference" "C68" (at 193.421 87.7316 0)
+    (property "Reference" "C65" (at 193.421 87.7316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "220nF" (at 193.421 90.043 0)
@@ -1871,7 +1871,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C68") (unit 1)
+          (reference "C65") (unit 1)
         )
       )
     )
@@ -1880,7 +1880,7 @@
   (symbol (lib_id "power:+3.3V") (at 210.82 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd9235f)
-    (property "Reference" "#PWR0106" (at 210.82 48.26 0)
+    (property "Reference" "#PWR0149" (at 210.82 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 211.201 40.0558 0)
@@ -1896,7 +1896,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR0106") (unit 1)
+          (reference "#PWR0149") (unit 1)
         )
       )
     )
@@ -1905,7 +1905,7 @@
   (symbol (lib_id "power:GND") (at 210.82 59.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd94fd7)
-    (property "Reference" "#PWR0107" (at 210.82 66.04 0)
+    (property "Reference" "#PWR0150" (at 210.82 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 210.947 64.0842 0)
@@ -1921,7 +1921,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR0107") (unit 1)
+          (reference "#PWR0150") (unit 1)
         )
       )
     )
@@ -1930,7 +1930,7 @@
   (symbol (lib_id "power:GND") (at 190.5 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dd9c2c2)
-    (property "Reference" "#PWR0104" (at 190.5 101.6 0)
+    (property "Reference" "#PWR0147" (at 190.5 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 190.627 99.6442 0)
@@ -1946,7 +1946,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR0104") (unit 1)
+          (reference "#PWR0147") (unit 1)
         )
       )
     )
@@ -1955,7 +1955,7 @@
   (symbol (lib_id "Device:L") (at 160.02 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dda3fd6)
-    (property "Reference" "L3" (at 161.3662 102.9716 0)
+    (property "Reference" "L7" (at 161.3662 102.9716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "12nH" (at 161.3662 105.283 0)
@@ -1981,7 +1981,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "L3") (unit 1)
+          (reference "L7") (unit 1)
         )
       )
     )
@@ -1990,7 +1990,7 @@
   (symbol (lib_id "Device:L") (at 146.05 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dda4eba)
-    (property "Reference" "L4" (at 146.05 92.964 90)
+    (property "Reference" "L3" (at 146.05 92.964 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "15nH" (at 146.05 95.2754 90)
@@ -2016,7 +2016,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "L4") (unit 1)
+          (reference "L3") (unit 1)
         )
       )
     )
@@ -2054,7 +2054,7 @@
   (symbol (lib_id "Device:L") (at 140.97 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dda8534)
-    (property "Reference" "L6" (at 142.3162 102.9716 0)
+    (property "Reference" "L2" (at 142.3162 102.9716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "12nH" (at 142.3162 105.283 0)
@@ -2080,7 +2080,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "L6") (unit 1)
+          (reference "L2") (unit 1)
         )
       )
     )
@@ -2089,7 +2089,7 @@
   (symbol (lib_id "Device:C") (at 132.08 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dda8bae)
-    (property "Reference" "C60" (at 135.001 102.9716 0)
+    (property "Reference" "C49" (at 135.001 102.9716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.3pF" (at 135.001 105.283 0)
@@ -2109,7 +2109,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C60") (unit 1)
+          (reference "C49") (unit 1)
         )
       )
     )
@@ -2118,7 +2118,7 @@
   (symbol (lib_id "power:GND") (at 160.02 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005ddb00a0)
-    (property "Reference" "#PWR0101" (at 160.02 114.3 0)
+    (property "Reference" "#PWR0144" (at 160.02 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 160.147 112.3442 0)
@@ -2134,7 +2134,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR0101") (unit 1)
+          (reference "#PWR0144") (unit 1)
         )
       )
     )
@@ -2143,7 +2143,7 @@
   (symbol (lib_id "power:GND") (at 132.08 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005ddb03ca)
-    (property "Reference" "#PWR0100" (at 132.08 114.3 0)
+    (property "Reference" "#PWR0143" (at 132.08 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 132.207 112.3442 0)
@@ -2159,7 +2159,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR0100") (unit 1)
+          (reference "#PWR0143") (unit 1)
         )
       )
     )
@@ -2168,7 +2168,7 @@
   (symbol (lib_id "Device:C") (at 63.5 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005ddb1cb5)
-    (property "Reference" "C47" (at 64.6684 96.901 0)
+    (property "Reference" "C44" (at 64.6684 96.901 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1.5nF" (at 62.357 96.901 0)
@@ -2188,7 +2188,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C47") (unit 1)
+          (reference "C44") (unit 1)
         )
       )
     )
@@ -2262,7 +2262,7 @@
   (symbol (lib_id "Device:R") (at 63.5 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005ddbed1c)
-    (property "Reference" "R36" (at 62.3316 84.582 0)
+    (property "Reference" "R27" (at 62.3316 84.582 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "56k" (at 64.643 84.582 0)
@@ -2279,7 +2279,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "R36") (unit 1)
+          (reference "R27") (unit 1)
         )
       )
     )
@@ -2288,7 +2288,7 @@
   (symbol (lib_id "power:GND") (at 59.69 86.36 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005ddc85fb)
-    (property "Reference" "#PWR093" (at 53.34 86.36 0)
+    (property "Reference" "#PWR0136" (at 53.34 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 55.2958 86.487 0)
@@ -2304,7 +2304,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR093") (unit 1)
+          (reference "#PWR0136") (unit 1)
         )
       )
     )
@@ -2313,7 +2313,7 @@
   (symbol (lib_id "power:GND") (at 74.93 81.28 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005ddc9177)
-    (property "Reference" "#PWR097" (at 68.58 81.28 0)
+    (property "Reference" "#PWR0140" (at 68.58 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 70.5358 81.407 0)
@@ -2329,7 +2329,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR097") (unit 1)
+          (reference "#PWR0140") (unit 1)
         )
       )
     )
@@ -2375,7 +2375,7 @@
   (symbol (lib_id "Device:C") (at 38.1 68.58 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dde1fd6)
-    (property "Reference" "C45" (at 36.9316 65.659 0)
+    (property "Reference" "C42" (at 36.9316 65.659 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "15pF" (at 39.243 65.659 0)
@@ -2395,7 +2395,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C45") (unit 1)
+          (reference "C42") (unit 1)
         )
       )
     )
@@ -2404,7 +2404,7 @@
   (symbol (lib_id "Device:C") (at 38.1 78.74 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dde2535)
-    (property "Reference" "C46" (at 36.9316 75.819 0)
+    (property "Reference" "C43" (at 36.9316 75.819 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "15pF" (at 39.243 75.819 0)
@@ -2424,7 +2424,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C46") (unit 1)
+          (reference "C43") (unit 1)
         )
       )
     )
@@ -2433,7 +2433,7 @@
   (symbol (lib_id "Device:C") (at 71.12 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de05983)
-    (property "Reference" "C48" (at 74.041 115.6716 0)
+    (property "Reference" "C45" (at 74.041 115.6716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10nF" (at 74.041 117.983 0)
@@ -2450,7 +2450,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C48") (unit 1)
+          (reference "C45") (unit 1)
         )
       )
     )
@@ -2459,7 +2459,7 @@
   (symbol (lib_id "Device:C") (at 81.28 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de05e60)
-    (property "Reference" "C49" (at 84.201 115.6716 0)
+    (property "Reference" "C46" (at 84.201 115.6716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100pF" (at 84.201 117.983 0)
@@ -2479,7 +2479,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C49") (unit 1)
+          (reference "C46") (unit 1)
         )
       )
     )
@@ -2488,7 +2488,7 @@
   (symbol (lib_id "Device:C") (at 91.44 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de06444)
-    (property "Reference" "C50" (at 94.361 115.6716 0)
+    (property "Reference" "C47" (at 94.361 115.6716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "33pF" (at 94.361 117.983 0)
@@ -2508,7 +2508,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C50") (unit 1)
+          (reference "C47") (unit 1)
         )
       )
     )
@@ -2517,7 +2517,7 @@
   (symbol (lib_id "Device:R") (at 101.6 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de06b6f)
-    (property "Reference" "R38" (at 103.378 115.6716 0)
+    (property "Reference" "R29" (at 103.378 115.6716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10R" (at 103.378 117.983 0)
@@ -2534,7 +2534,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "R38") (unit 1)
+          (reference "R29") (unit 1)
         )
       )
     )
@@ -2543,7 +2543,7 @@
   (symbol (lib_id "power:+3.3V") (at 71.12 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de0a57d)
-    (property "Reference" "#PWR095" (at 71.12 113.03 0)
+    (property "Reference" "#PWR0138" (at 71.12 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 71.501 104.8258 0)
@@ -2559,7 +2559,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR095") (unit 1)
+          (reference "#PWR0138") (unit 1)
         )
       )
     )
@@ -2568,7 +2568,7 @@
   (symbol (lib_id "power:GND") (at 71.12 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de140aa)
-    (property "Reference" "#PWR096" (at 71.12 127 0)
+    (property "Reference" "#PWR0139" (at 71.12 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 71.247 125.0442 0)
@@ -2584,7 +2584,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR096") (unit 1)
+          (reference "#PWR0139") (unit 1)
         )
       )
     )
@@ -2593,7 +2593,7 @@
   (symbol (lib_id "power:GND") (at 81.28 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de14548)
-    (property "Reference" "#PWR099" (at 81.28 127 0)
+    (property "Reference" "#PWR0142" (at 81.28 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 81.407 125.0442 0)
@@ -2609,7 +2609,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR099") (unit 1)
+          (reference "#PWR0142") (unit 1)
         )
       )
     )
@@ -2618,7 +2618,7 @@
   (symbol (lib_id "Device:L") (at 110.49 123.19 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de18586)
-    (property "Reference" "L2" (at 110.49 118.364 90)
+    (property "Reference" "L1" (at 110.49 118.364 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10nH" (at 110.49 120.6754 90)
@@ -2644,7 +2644,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "L2") (unit 1)
+          (reference "L1") (unit 1)
         )
       )
     )
@@ -2653,7 +2653,7 @@
   (symbol (lib_id "Device:C") (at 135.89 133.35 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de308fb)
-    (property "Reference" "C52" (at 135.89 126.9492 90)
+    (property "Reference" "C50" (at 135.89 126.9492 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "15pF" (at 135.89 129.2606 90)
@@ -2673,7 +2673,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C52") (unit 1)
+          (reference "C50") (unit 1)
         )
       )
     )
@@ -2717,7 +2717,7 @@
   (symbol (lib_id "Device:L") (at 156.21 133.35 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de31651)
-    (property "Reference" "L7" (at 156.21 128.524 90)
+    (property "Reference" "L6" (at 156.21 128.524 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "18nH" (at 156.21 130.8354 90)
@@ -2743,7 +2743,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "L7") (unit 1)
+          (reference "L6") (unit 1)
         )
       )
     )
@@ -2752,7 +2752,7 @@
   (symbol (lib_id "Device:C") (at 146.05 142.24 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de3b6d3)
-    (property "Reference" "C55" (at 146.05 135.8392 90)
+    (property "Reference" "C52" (at 146.05 135.8392 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1pF" (at 146.05 138.1506 90)
@@ -2772,7 +2772,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C55") (unit 1)
+          (reference "C52") (unit 1)
         )
       )
     )
@@ -2781,7 +2781,7 @@
   (symbol (lib_id "power:GND") (at 31.75 68.58 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de422fb)
-    (property "Reference" "#PWR091" (at 25.4 68.58 0)
+    (property "Reference" "#PWR0132" (at 25.4 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 27.3558 68.707 0)
@@ -2797,7 +2797,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR091") (unit 1)
+          (reference "#PWR0132") (unit 1)
         )
       )
     )
@@ -2806,7 +2806,7 @@
   (symbol (lib_id "power:GND") (at 31.75 78.74 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de427da)
-    (property "Reference" "#PWR092" (at 25.4 78.74 0)
+    (property "Reference" "#PWR0133" (at 25.4 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 27.3558 78.867 0)
@@ -2822,7 +2822,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR092") (unit 1)
+          (reference "#PWR0133") (unit 1)
         )
       )
     )
@@ -2831,7 +2831,7 @@
   (symbol (lib_id "Device:C") (at 151.13 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de48f8c)
-    (property "Reference" "C57" (at 154.051 123.2916 0)
+    (property "Reference" "C55" (at 154.051 123.2916 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2.2pF" (at 154.051 125.603 0)
@@ -2851,7 +2851,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C57") (unit 1)
+          (reference "C55") (unit 1)
         )
       )
     )
@@ -2860,7 +2860,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 74.93 68.58 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de539ef)
-    (property "Reference" "TP38" (at 73.1012 65.9638 90)
+    (property "Reference" "TP34" (at 73.1012 65.9638 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 73.1012 65.9384 90)
@@ -2876,7 +2876,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "TP38") (unit 1)
+          (reference "TP34") (unit 1)
         )
       )
     )
@@ -2885,7 +2885,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 74.93 71.12 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de53bc8)
-    (property "Reference" "TP39" (at 73.1012 68.5038 90)
+    (property "Reference" "TP35" (at 73.1012 68.5038 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 73.1012 68.4784 90)
@@ -2901,7 +2901,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "TP39") (unit 1)
+          (reference "TP35") (unit 1)
         )
       )
     )
@@ -2910,7 +2910,7 @@
   (symbol (lib_id "power:GND") (at 74.93 99.06 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de55a05)
-    (property "Reference" "#PWR098" (at 68.58 99.06 0)
+    (property "Reference" "#PWR0141" (at 68.58 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 70.5358 99.187 0)
@@ -2926,7 +2926,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR098") (unit 1)
+          (reference "#PWR0141") (unit 1)
         )
       )
     )
@@ -2935,7 +2935,7 @@
   (symbol (lib_id "Device:C") (at 167.64 140.97 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de5e205)
-    (property "Reference" "C61" (at 170.561 139.8016 0)
+    (property "Reference" "C58" (at 170.561 139.8016 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "3pF" (at 170.561 142.113 0)
@@ -2955,7 +2955,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C61") (unit 1)
+          (reference "C58") (unit 1)
         )
       )
     )
@@ -2999,7 +2999,7 @@
   (symbol (lib_id "Device:C") (at 177.8 123.19 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de65188)
-    (property "Reference" "C64" (at 177.8 116.7892 90)
+    (property "Reference" "C61" (at 177.8 116.7892 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "DNP" (at 177.8 119.1006 90)
@@ -3016,7 +3016,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C64") (unit 1)
+          (reference "C61") (unit 1)
         )
       )
     )
@@ -3025,7 +3025,7 @@
   (symbol (lib_id "Device:R") (at 195.58 133.35 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de7aaf6)
-    (property "Reference" "R40" (at 195.58 128.0922 90)
+    (property "Reference" "R31" (at 195.58 128.0922 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0R" (at 195.58 130.4036 90)
@@ -3042,7 +3042,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "R40") (unit 1)
+          (reference "R31") (unit 1)
         )
       )
     )
@@ -3051,7 +3051,7 @@
   (symbol (lib_id "Device:R") (at 189.23 139.7 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de80fa2)
-    (property "Reference" "R39" (at 191.008 138.5316 0)
+    (property "Reference" "R30" (at 191.008 138.5316 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "DNP" (at 191.008 140.843 0)
@@ -3068,7 +3068,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "R39") (unit 1)
+          (reference "R30") (unit 1)
         )
       )
     )
@@ -3077,7 +3077,7 @@
   (symbol (lib_id "Device:L") (at 146.05 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de8d007)
-    (property "Reference" "L10" (at 147.3962 113.1316 0)
+    (property "Reference" "L4" (at 147.3962 113.1316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "12nH" (at 147.3962 115.443 0)
@@ -3103,7 +3103,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "L10") (unit 1)
+          (reference "L4") (unit 1)
         )
       )
     )
@@ -3138,7 +3138,7 @@
   (symbol (lib_id "power:GND") (at 167.64 144.78 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de95ac2)
-    (property "Reference" "#PWR0102" (at 167.64 151.13 0)
+    (property "Reference" "#PWR0145" (at 167.64 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 167.767 149.1742 0)
@@ -3154,7 +3154,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR0102") (unit 1)
+          (reference "#PWR0145") (unit 1)
         )
       )
     )
@@ -3163,7 +3163,7 @@
   (symbol (lib_id "power:GND") (at 184.15 148.59 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de96376)
-    (property "Reference" "#PWR0103" (at 177.8 148.59 0)
+    (property "Reference" "#PWR0146" (at 177.8 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 180.8988 148.717 90)
@@ -3179,7 +3179,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR0103") (unit 1)
+          (reference "#PWR0146") (unit 1)
         )
       )
     )
@@ -3188,7 +3188,7 @@
   (symbol (lib_id "Device:C") (at 210.82 133.35 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de975ac)
-    (property "Reference" "C72" (at 210.82 126.9492 90)
+    (property "Reference" "C69" (at 210.82 126.9492 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1pF" (at 210.82 129.2606 90)
@@ -3208,7 +3208,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C72") (unit 1)
+          (reference "C69") (unit 1)
         )
       )
     )
@@ -3252,7 +3252,7 @@
   (symbol (lib_id "Device:C") (at 204.47 140.97 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005deb145e)
-    (property "Reference" "C70" (at 207.391 139.8016 0)
+    (property "Reference" "C67" (at 207.391 139.8016 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "DNP" (at 207.391 142.113 0)
@@ -3269,7 +3269,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C70") (unit 1)
+          (reference "C67") (unit 1)
         )
       )
     )
@@ -3278,7 +3278,7 @@
   (symbol (lib_id "power:GND") (at 204.47 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005deb6f9e)
-    (property "Reference" "#PWR0105" (at 204.47 153.67 0)
+    (property "Reference" "#PWR0148" (at 204.47 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 204.597 151.7142 0)
@@ -3294,7 +3294,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR0105") (unit 1)
+          (reference "#PWR0148") (unit 1)
         )
       )
     )
@@ -3303,7 +3303,7 @@
   (symbol (lib_id "power:GND") (at 58.42 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005debafea)
-    (property "Reference" "#PWR0118" (at 64.77 73.66 0)
+    (property "Reference" "#PWR0135" (at 64.77 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 62.8142 73.533 0)
@@ -3319,7 +3319,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR0118") (unit 1)
+          (reference "#PWR0135") (unit 1)
         )
       )
     )
@@ -3328,7 +3328,7 @@
   (symbol (lib_id "power:GND") (at 48.26 73.66 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005debefa6)
-    (property "Reference" "#PWR0119" (at 41.91 73.66 0)
+    (property "Reference" "#PWR0134" (at 41.91 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 43.8658 73.787 0)
@@ -3344,7 +3344,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR0119") (unit 1)
+          (reference "#PWR0134") (unit 1)
         )
       )
     )
@@ -3353,7 +3353,7 @@
   (symbol (lib_id "power:GND") (at 218.44 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dec052f)
-    (property "Reference" "#PWR0108" (at 218.44 153.67 0)
+    (property "Reference" "#PWR0151" (at 218.44 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 218.567 151.7142 0)
@@ -3369,7 +3369,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR0108") (unit 1)
+          (reference "#PWR0151") (unit 1)
         )
       )
     )
@@ -3403,7 +3403,7 @@
   (symbol (lib_id "Device:C") (at 38.1 58.42 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005def0a8b)
-    (property "Reference" "C37" (at 36.9316 55.499 0)
+    (property "Reference" "C41" (at 36.9316 55.499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "DNP" (at 39.243 55.499 0)
@@ -3420,7 +3420,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "C37") (unit 1)
+          (reference "C41") (unit 1)
         )
       )
     )
@@ -3429,7 +3429,7 @@
   (symbol (lib_id "Device:R") (at 67.31 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005def437b)
-    (property "Reference" "R37" (at 69.088 40.7416 0)
+    (property "Reference" "R28" (at 69.088 40.7416 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 69.088 43.053 0)
@@ -3446,7 +3446,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "R37") (unit 1)
+          (reference "R28") (unit 1)
         )
       )
     )
@@ -3455,7 +3455,7 @@
   (symbol (lib_id "power:+3.3V") (at 67.31 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005deff2c7)
-    (property "Reference" "#PWR094" (at 67.31 41.91 0)
+    (property "Reference" "#PWR0137" (at 67.31 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 67.691 33.7058 0)
@@ -3471,7 +3471,7 @@
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005ddb5f59"
-          (reference "#PWR094") (unit 1)
+          (reference "#PWR0137") (unit 1)
         )
       )
     )
