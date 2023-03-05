@@ -3384,7 +3384,7 @@
     (property "Value" "Antenna" (at 224.282 125.7808 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "jeffmakes-footprints:Antenna_TI_DN038" (at 222.25 123.19 0)
+    (property "Footprint" "jeffmakes_footprints:Antenna_TI_DN038" (at 222.25 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 222.25 123.19 0)
