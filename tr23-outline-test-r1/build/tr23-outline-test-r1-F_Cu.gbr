@@ -1,0 +1,124 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.99.0-1.20230226git51d46c0.fc37*%
+%TF.CreationDate,2023-03-11T16:05:45+00:00*%
+%TF.ProjectId,tr23-outline-test-r1,74723233-2d6f-4757-946c-696e652d7465,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L1,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.99.0-1.20230226git51d46c0.fc37) date 2023-03-11 16:05:45*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMRotRect*
+0 Rectangle, with rotation*
+0 The origin of the aperture is its center*
+0 $1 length*
+0 $2 width*
+0 $3 Rotation angle, in degrees counterclockwise*
+0 Add horizontal line*
+21,1,$1,$2,0,0,$3*%
+G04 Aperture macros list end*
+%TA.AperFunction,WasherPad*%
+%ADD10C,1.000000*%
+%TD*%
+%TA.AperFunction,SMDPad,CuDef*%
+%ADD11R,1.550000X1.300000*%
+%TD*%
+%TA.AperFunction,SMDPad,CuDef*%
+%ADD12RotRect,2.000000X1.000000X135.000000*%
+%TD*%
+%TA.AperFunction,SMDPad,CuDef*%
+%ADD13RotRect,2.000000X1.800000X135.000000*%
+%TD*%
+%TA.AperFunction,Conductor*%
+%ADD14C,0.300000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,DISP1,*%
+%TO.N,*%
+X-59487500Y31480000D03*
+X8762500Y31480000D03*
+X-59487500Y80520000D03*
+X8762500Y80520000D03*
+%TD*%
+D11*
+%TO.P,SW37,1,1*%
+%TO.N,unconnected-(SW37-Pad1)*%
+X-72479999Y61674999D03*
+%TO.P,SW37,2,2*%
+%TO.N,unconnected-(SW37-Pad2)*%
+X-64519999Y61674999D03*
+%TO.P,SW37,3,K*%
+%TO.N,unconnected-(SW37-K-Pad3)*%
+X-64519999Y57174999D03*
+%TO.P,SW37,4,A*%
+%TO.N,unconnected-(SW37-A-Pad4)*%
+X-72479999Y57174999D03*
+%TD*%
+%TO.P,SW36,1,1*%
+%TO.N,unconnected-(SW36-Pad1)*%
+X13519999Y48099999D03*
+%TO.P,SW36,2,2*%
+%TO.N,unconnected-(SW36-Pad2)*%
+X21479999Y48099999D03*
+%TO.P,SW36,3,K*%
+%TO.N,unconnected-(SW36-K-Pad3)*%
+X21479999Y43599999D03*
+%TO.P,SW36,4,A*%
+%TO.N,unconnected-(SW36-A-Pad4)*%
+X13519999Y43599999D03*
+%TD*%
+D12*
+%TO.P,S1,1,A*%
+%TO.N,unconnected-(S1-A-Pad1)*%
+X-66679198Y42013944D03*
+%TO.P,S1,2,Center*%
+%TO.N,unconnected-(S1-Center-Pad2)*%
+X-65671572Y43021572D03*
+%TO.P,S1,3,C*%
+%TO.N,unconnected-(S1-C-Pad3)*%
+X-64663945Y44029199D03*
+%TO.P,S1,4,B*%
+%TO.N,unconnected-(S1-B-Pad4)*%
+X-72336053Y47670799D03*
+%TO.P,S1,5,COM*%
+%TO.N,unconnected-(S1-COM-Pad5)*%
+X-71328426Y48678426D03*
+%TO.P,S1,6,D*%
+%TO.N,unconnected-(S1-D-Pad6)*%
+X-70320799Y49686053D03*
+D13*
+%TO.P,S1,SH1,SHIELD*%
+%TO.N,unconnected-(S1-SHIELD-PadSH1)*%
+X-71363781Y42986217D03*
+%TO.P,S1,SH2,SHIELD*%
+X-65636216Y48713781D03*
+%TD*%
+D11*
+%TO.P,SW35,1,1*%
+%TO.N,unconnected-(SW35-Pad1)*%
+X13519999Y61674999D03*
+%TO.P,SW35,2,2*%
+%TO.N,unconnected-(SW35-Pad2)*%
+X21479999Y61674999D03*
+%TO.P,SW35,3,K*%
+%TO.N,unconnected-(SW35-K-Pad3)*%
+X21479999Y57174999D03*
+%TO.P,SW35,4,A*%
+%TO.N,unconnected-(SW35-A-Pad4)*%
+X13519999Y57174999D03*
+%TD*%
+D14*
+%TO.N,unconnected-(S1-SHIELD-PadSH1)*%
+X-71363782Y42986218D02*
+X-68413782Y42986218D01*
+X-65636217Y45763783D02*
+X-65636217Y48713782D01*
+X-68413782Y42986218D02*
+X-65636217Y45763783D01*
+%TD*%
+M02*
