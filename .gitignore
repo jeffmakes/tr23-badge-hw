@@ -6,4 +6,5 @@ _autosave*
 \#*
 *kicad_prl
 *xml
-
+*svg2shenzhen-cache/
+*design/board-graphics
