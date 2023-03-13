@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.7955082"
-     inkscape:cx="223.03637"
-     inkscape:cy="324.62792"
-     inkscape:window-width="3233"
+     inkscape:zoom="1.9767228"
+     inkscape:cx="226.13186"
+     inkscape:cy="343.75078"
+     inkscape:window-width="2490"
      inkscape:window-height="2058"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -70,8 +70,8 @@
      inkscape:label="[fixed] BG"
      inkscape:groupmode="layer"
      id="g81337"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        x="0"
        y="0"
@@ -89,7 +89,7 @@
     <path
        id="path40447-6"
        style="display:inline;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 53.874166,0.005256 -0.094,0.0089 -0.088,0.0254 -0.081,0.0403 -0.0713,0.0536 -0.0608,0.0654 -0.0484,0.0753 -0.0344,0.0839 -0.0189,0.0906 v 4.0044005 h -12.8468 l -0.1007,0.0102 -0.0937,0.0292 -0.0849,0.046 -0.0739,0.0611 -0.0611,0.0739 -0.046,0.0849 -0.0292,0.0937 -0.0102,0.1007 v 3.9481 H 18.29123 l -0.1007,0.0102 -0.0938,0.0291 -0.0848,0.0461 -0.074,0.061 -0.061,0.074 -0.0461,0.0849 -0.0292,0.0937 -0.0102,0.1007 V 13.35886 H 4.847066 l -0.0938,0.0291 -0.0848,0.0461 -0.074,0.061 -0.061,0.074 -0.0461,0.0848 -0.0291,0.0938 v 12.9345 h -3.9583 l -0.1007,0.0102 -0.0938,0.0292 -0.0848,0.0461 -0.074,0.061 -0.061,0.0739 -0.0461,0.0849 -0.0291,0.0938 -0.0102,0.1007 v 29.6249 l 0.0203,0.202 0.0583,0.187 0.0922,0.17 0.1221,0.148 0.148,0.122 0.1698,0.092 0.1877,0.059 0.2015,0.02 h 3.4478996 v 16.791013 l 0.0203,0.202 0.0583,0.187 0.0922,0.17 0.1221,0.148 0.148,0.122 0.1698,0.093 0.1877,0.058 0.2015,0.02 3.4479,-0.0015 v 12.345454 l 0.0203,0.201 0.0583,0.188 0.0922,0.17 0.1221,0.148 0.148,0.122 0.1698,0.092 0.1877,0.058 0.2015,0.021 h 3.4479004 v 7.896 l 0.0203,0.201 0.0583,0.188 0.0922,0.17 0.1221,0.148 0.1479,0.122 0.1699,0.092 0.1877,0.058 0.2015,0.021 h 3.4479 v 7.895033 l 0.0203,0.202 0.0583,0.188 0.0921,0.169 0.1221,0.148 0.148,0.122 0.1699,0.093 0.1877,0.058 0.2015,0.02 h 3.4478 v 7.39599 l 0.0078,0.153 0.0227,0.149 0.0875,0.282 0.1383,0.254 0.1832,0.222 0.222,0.184 0.2548,0.138 0.2816,0.087 0.149,0.023 0.1533,0.008 h 2.9476 v 2.94729 l 0.0078,0.154 0.0227,0.149 0.0875,0.281 0.1383,0.255 0.1832,0.222 0.222,0.183 0.2548,0.139 0.2816,0.087 0.1489,0.023 0.1534,0.008 h 2.9476 v 2.94695 l 0.0078,0.154 0.0227,0.149 0.0875,0.281 0.1383,0.255 0.1832,0.222 0.222,0.183 0.2548,0.138 0.2816,0.088 0.1489,0.023 0.1534,0.007 h 2.9481 v 2.94875 l 0.0078,0.153 0.0227,0.149 0.0875,0.281 0.1383,0.255 0.1832,0.222 0.222,0.183 0.2548,0.139 0.2816,0.087 0.1489,0.023 0.1534,0.008 h 0.0501 2.8975 v 2.44801 l 0.0104,0.204 0.0303,0.199 0.0493,0.191 0.0672,0.184 0.0842,0.175 0.1002,0.165 0.1151,0.154 0.1291,0.142 0.142,0.129 0.154,0.115 0.1648,0.1 0.1749,0.084 0.1837,0.068 0.1917,0.049 0.1985,0.03 0.2045,0.011 h 2.4479 v 2.44665 l 0.0104,0.205 0.0303,0.199 0.0493,0.191 0.0672,0.184 0.0842,0.175 0.1002,0.165 0.1151,0.154 0.1291,0.142 0.142,0.129 0.1539,0.115 0.1649,0.1 0.1748,0.084 0.1838,0.067 0.1916,0.05 0.1986,0.03 0.2045,0.01 h 6.8957 v 2.44788 l 0.0103,0.205 0.0303,0.198 0.0493,0.192 0.0673,0.184 0.0837,0.174 0.101,0.165 0.115,0.154 0.129,0.142 0.142,0.129 0.154,0.116 0.165,0.1 0.175,0.084 0.183,0.067 0.192,0.049 0.198,0.031 0.205,0.01 h 2.448 v -4.44788 h 8.894996 v -4.44701 h 4.449 l 0.01167,-4.44798 h 4.436331 V 124.523 l 4.447,7e-5 V 120.076 l 3.948,1.1e-4 0.101,-0.011 0.094,-0.029 0.085,-0.046 0.074,-0.061 0.061,-0.074 0.046,-0.085 0.029,-0.093 0.01,-0.101 V 115.628 l 3.948,8e-5 0.101,-0.01 0.094,-0.029 0.085,-0.047 0.073,-0.061 0.062,-0.074 0.046,-0.084 0.029,-0.094 0.01,-0.101 V 106.732 l 3.948,9e-5 0.101,-0.01 0.093,-0.029 0.085,-0.046 0.074,-0.061 0.061,-0.074 0.046,-0.085 0.03,-0.094 0.01,-0.1 V 97.837 l 3.948,9.8e-5 0.1,-0.011 0.094,-0.029 0.085,-0.046 0.074,-0.061 0.061,-0.074 0.046,-0.085 0.029,-0.093 0.011,-0.101 V 88.941 l 3.448007,9.4e-5 0.201,-0.021 0.188,-0.058 0.17,-0.092 0.148,-0.122 0.122,-0.148 0.092,-0.17 0.059,-0.188 0.02,-0.201 V 75.597 l 3.448,9.7e-5 0.201,-0.02 0.188,-0.058 0.17,-0.093 0.148,-0.122 0.122,-0.148 0.092,-0.17 0.058,-0.187 0.021,-0.202 V 57.806098 h 2.947 l 0.154,-0.008 0.149,-0.022 0.281,-0.088 0.255,-0.138 0.222,-0.183 0.183,-0.222 0.138,-0.255 0.088,-0.282 0.023,-0.149 0.007,-0.153 v -28.1245 l -0.007,-0.1534 -0.023,-0.1489 -0.088,-0.2816 -0.138,-0.2548 -0.183,-0.222 -0.222,-0.1832 -0.255,-0.1383 -0.281,-0.0875 -0.149,-0.0227 -0.154,-0.0078 h -2.92241 V 13.34866 H 93.436307 V 8.90086 H 71.164109 v -4.4478 h -13.3669 v -4.4478 h -3.923"
+       d="m 53.874166,0.005256 -0.094,0.0089 -0.088,0.0254 -0.081,0.0403 -0.0713,0.0536 -0.0608,0.0654 -0.0484,0.0753 -0.0344,0.0839 -0.0189,0.0906 v 4.0044005 h -12.8468 l -0.1007,0.0102 -0.0937,0.0292 -0.0849,0.046 -0.0739,0.0611 -0.0611,0.0739 -0.046,0.0849 -0.0292,0.0937 -0.0102,0.1007 v 3.9481 H 18.29123 l -0.1007,0.0102 -0.0938,0.0291 -0.0848,0.0461 -0.074,0.061 -0.061,0.074 -0.0461,0.0849 -0.0292,0.0937 -0.0102,0.1007 V 13.35886 H 4.847066 l -0.0938,0.0291 -0.0848,0.0461 -0.074,0.061 -0.061,0.074 -0.0461,0.0848 -0.0291,0.0938 v 12.9345 h -3.9583 l -0.1007,0.0102 -0.0938,0.0292 -0.0848,0.0461 -0.074,0.061 -0.061,0.0739 -0.0461,0.0849 -0.0291,0.0938 -0.0102,0.1007 v 29.6249 l 0.0203,0.202 0.0583,0.187 0.0922,0.17 0.1221,0.148 0.148,0.122 0.1698,0.092 0.1877,0.059 0.2015,0.02 h 3.4478996 v 16.791013 l 0.0203,0.202 0.0583,0.187 0.0922,0.17 0.1221,0.148 0.148,0.122 0.1698,0.093 0.1877,0.058 0.2015,0.02 3.4479,-0.0015 v 12.345454 l 0.0203,0.201 0.0583,0.188 0.0922,0.17 0.1221,0.148 0.148,0.122 0.1698,0.092 0.1877,0.058 0.2015,0.021 h 3.4479004 v 7.896 l 0.0203,0.201 0.0583,0.188 0.0922,0.17 0.1221,0.148 0.1479,0.122 0.1699,0.092 0.1877,0.058 0.2015,0.021 h 3.4479 v 7.895033 l 0.0203,0.202 0.0583,0.188 0.0921,0.169 0.1221,0.148 0.148,0.122 0.1699,0.093 0.1877,0.058 0.2015,0.02 h 3.4478 v 7.39599 l 0.0078,0.153 0.0227,0.149 0.0875,0.282 0.1383,0.254 0.1832,0.222 0.222,0.184 0.2548,0.138 0.2816,0.087 0.149,0.023 0.1533,0.008 h 2.9476 v 2.94729 l 0.0078,0.154 0.0227,0.149 0.0875,0.281 0.1383,0.255 0.1832,0.222 0.222,0.183 0.2548,0.139 0.2816,0.087 0.1489,0.023 0.1534,0.008 h 2.9476 v 2.94695 l 0.0078,0.154 0.0227,0.149 0.0875,0.281 0.1383,0.255 0.1832,0.222 0.222,0.183 0.2548,0.138 0.2816,0.088 0.1489,0.023 0.1534,0.007 h 2.9481 v 2.94875 l 0.0078,0.153 0.0227,0.149 0.0875,0.281 0.1383,0.255 0.1832,0.222 0.222,0.183 0.2548,0.139 0.2816,0.087 0.1489,0.023 0.1534,0.008 h 0.0501 2.8975 v 2.44801 l 0.0104,0.204 0.0303,0.199 0.0493,0.191 0.0672,0.184 0.0842,0.175 0.1002,0.165 0.1151,0.154 0.1291,0.142 0.142,0.129 0.154,0.115 0.1648,0.1 0.1749,0.084 0.1837,0.068 0.1917,0.049 0.1985,0.03 0.2045,0.011 h 2.4479 v 2.44665 l 0.0104,0.205 0.0303,0.199 0.0493,0.191 0.0672,0.184 0.0842,0.175 0.1002,0.165 0.1151,0.154 0.1291,0.142 0.142,0.129 0.1539,0.115 0.1649,0.1 0.1748,0.084 0.1838,0.067 0.1916,0.05 0.1986,0.03 0.2045,0.01 h 2.447845 v 2.44788 l 0.0103,0.205 0.0303,0.198 0.0493,0.192 0.0673,0.184 0.0837,0.174 0.101,0.165 0.115,0.154 0.129,0.142 0.142,0.129 0.154,0.116 0.165,0.1 0.175,0.084 0.183,0.067 0.192,0.049 0.198,0.031 0.205,0.01 11.343716,-1e-5 v -4.44788 l 4.447135,1e-5 v -4.44701 h 4.449 l 0.01167,-4.44798 h 4.436331 V 124.523 l 4.447,7e-5 V 120.076 l 3.948,1.1e-4 0.101,-0.011 0.094,-0.029 0.085,-0.046 0.074,-0.061 0.061,-0.074 0.046,-0.085 0.029,-0.093 0.01,-0.101 V 115.628 l 3.948,8e-5 0.101,-0.01 0.094,-0.029 0.085,-0.047 0.073,-0.061 0.062,-0.074 0.046,-0.084 0.029,-0.094 0.01,-0.101 V 106.732 l 3.948,9e-5 0.101,-0.01 0.093,-0.029 0.085,-0.046 0.074,-0.061 0.061,-0.074 0.046,-0.085 0.03,-0.094 0.01,-0.1 V 97.837 l 3.948,9.8e-5 0.1,-0.011 0.094,-0.029 0.085,-0.046 0.074,-0.061 0.061,-0.074 0.046,-0.085 0.029,-0.093 0.011,-0.101 V 88.941 l 3.448007,9.4e-5 0.201,-0.021 0.188,-0.058 0.17,-0.092 0.148,-0.122 0.122,-0.148 0.092,-0.17 0.059,-0.188 0.02,-0.201 V 75.597 l 3.448,9.7e-5 0.201,-0.02 0.188,-0.058 0.17,-0.093 0.148,-0.122 0.122,-0.148 0.092,-0.17 0.058,-0.187 0.021,-0.202 V 57.806098 h 2.947 l 0.154,-0.008 0.149,-0.022 0.281,-0.088 0.255,-0.138 0.222,-0.183 0.183,-0.222 0.138,-0.255 0.088,-0.282 0.023,-0.149 0.007,-0.153 v -28.1245 l -0.007,-0.1534 -0.023,-0.1489 -0.088,-0.2816 -0.138,-0.2548 -0.183,-0.222 -0.222,-0.1832 -0.255,-0.1383 -0.281,-0.0875 -0.149,-0.0227 -0.154,-0.0078 h -2.92241 V 13.34866 H 93.436307 V 8.90086 H 71.164109 v -4.4478 h -13.3669 v -4.4478 h -3.923"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   </g>
   <g
@@ -209,7 +209,7 @@
        transform="rotate(-90,680.63786,300.3884)"><tspan
          x="629.49805"
          y="348.44222"
-         id="tspan69731">Z280IT008 (2.8&quot;)</tspan></text>
+         id="tspan41619">Z280IT008 (2.8&quot;)</tspan></text>
   </g>
   <g
      inkscape:label="F.SilkS"
@@ -226,19 +226,19 @@
        transform="scale(-1,1)" />
     <rect
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.266872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-       id="rect18913-2-7"
-       width="4.4478621"
-       height="4.4478621"
-       x="-53.374264"
-       y="133.41508"
-       transform="scale(-1,1)" />
-    <rect
-       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.266872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect18913-2-4"
        width="4.4478621"
        height="4.4478621"
        x="-57.822117"
        y="137.86293"
+       transform="scale(-1,1)" />
+    <rect
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.266872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect18913-2-4-1"
+       width="4.4478621"
+       height="4.4478621"
+       x="-62.270027"
+       y="137.86751"
        transform="scale(-1,1)" />
     <rect
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.266872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
@@ -553,18 +553,11 @@
        y="133.41508" />
     <rect
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.266872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-       id="rect18913-2-7-3"
-       width="4.4478621"
-       height="4.4478621"
-       x="57.822201"
-       y="133.41508" />
-    <rect
-       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.266872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect18913-2-4-2"
        width="4.4478621"
        height="4.4478621"
-       x="53.374325"
-       y="137.86293" />
+       x="48.926411"
+       y="137.86295" />
     <rect
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.266872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect18915-5-0"
@@ -3434,15 +3427,20 @@
        id="path5211-4" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.76162px;line-height:100%;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;display:inline;opacity:1;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:0.294209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:100%;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;display:inline;opacity:1;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:0.294209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        x="55.598255"
-       y="132.13507"
+       y="132.27637"
        id="text5195-7-3"><tspan
          sodipodi:role="line"
          x="55.598255"
-         y="132.13507"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.76162px;line-height:100%;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:0.294209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         id="tspan69269">TROOPERS</tspan></text>
+         y="132.27637"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:100%;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:0.294209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="tspan69269">TROOPERS</tspan><tspan
+         sodipodi:role="line"
+         x="55.598255"
+         y="135.45137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:100%;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:0.294209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="tspan32807" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.76162px;line-height:100%;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:0.294209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -3456,14 +3454,14 @@
          id="tspan69269-7">SAO</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.76162px;line-height:100%;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:-0.264583px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:0.294209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:100%;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:-0.264583px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:0.294209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        x="55.598255"
-       y="136.58293"
+       y="136.15485"
        id="text5195-7-3-0"><tspan
          sodipodi:role="line"
          x="55.465965"
-         y="136.58293"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.76162px;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#eaa313;fill-opacity:1;stroke-width:0.294209px"
+         y="136.15485"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#eaa313;fill-opacity:1;stroke-width:0.294209px"
          id="tspan69269-2">23</tspan></text>
     <g
        id="g12673"
@@ -3882,7 +3880,8 @@
      inkscape:groupmode="layer"
      inkscape:label="tr20-r2-coverlay-reference-geometry"
      transform="matrix(0.35277776,0,0,0.35277776,-119.83721,-36.335255)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g92879"
        transform="matrix(0,0.99998547,-1,0,635.59219,-392.35188)"
