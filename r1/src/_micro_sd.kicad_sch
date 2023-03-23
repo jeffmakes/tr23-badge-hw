@@ -483,7 +483,7 @@
     (property "Value" "TF-15x15" (at 168.91 81.8896 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "jeffmakes_footprints:microSD_HC_Sofng_TF-15" (at 222.25 82.55 0)
+    (property "Footprint" "jeffmakes-footprints:microSD_HC_Sofng_TF-15" (at 222.25 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 170.18 97.79 0)
