@@ -1817,10 +1817,10 @@
     (pin "B6" (uuid b59a842c-4d2b-418c-8969-807ea6f5042c))
     (pin "B7" (uuid 6495d34c-ac04-42f3-97f6-30598979ae9d))
     (pin "B8" (uuid c7a773c6-1622-4581-9a2e-88392585848d))
-    (pin "SH" (uuid e435aee1-c1bb-48ad-8b40-510bef6dad21))
-    (pin "SH" (uuid e435aee1-c1bb-48ad-8b40-510bef6dad21))
-    (pin "SH" (uuid e435aee1-c1bb-48ad-8b40-510bef6dad21))
-    (pin "SH" (uuid e435aee1-c1bb-48ad-8b40-510bef6dad21))
+    (pin "SH" (uuid e435aee1-c1bb-48ad-8b40-510bef6dad2a))
+    (pin "SH" (uuid e435aee1-c1bb-48ad-8b40-510bef6dad2a))
+    (pin "SH" (uuid e435aee1-c1bb-48ad-8b40-510bef6dad2a))
+    (pin "SH" (uuid e435aee1-c1bb-48ad-8b40-510bef6dad2a))
     (instances
       (project "tr23-badge-r1"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6/00000000-0000-0000-0000-00005dfb5ab2"
