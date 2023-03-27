@@ -517,6 +517,7 @@
       "Net-(C58-Pad2)": "RF_50_ohm",
       "Net-(C61-Pad2)": "RF_50_ohm",
       "Net-(C67-Pad1)": "RF_50_ohm",
+      "Net-(Q4-S)": "Power",
       "Net-(U9-PA)": "RF_50_ohm"
     },
     "netclass_patterns": [
