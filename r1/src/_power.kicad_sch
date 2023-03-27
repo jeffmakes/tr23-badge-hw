@@ -1238,6 +1238,14 @@
     (uuid 270d0af9-e138-4073-a04a-fdd4f8ece9fb)
   )
 
+  (netclass_flag "" (length 2.54) (shape round) (at 186.69 71.12 270) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 16109c42-08d9-45b4-a17d-517fbc40e800)
+    (property "Netclass" "Power" (at 189.23 70.5104 90)
+      (effects (font (size 1.27 1.27) italic) (justify left) hide)
+    )
+  )
+
   (symbol (lib_id "power:VBUS") (at 132.08 119.38 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005c4754eb)
