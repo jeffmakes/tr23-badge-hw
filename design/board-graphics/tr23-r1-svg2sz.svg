@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4"
-     inkscape:cx="139.375"
-     inkscape:cy="88.375"
-     inkscape:window-width="1870"
-     inkscape:window-height="978"
+     inkscape:cx="226.375"
+     inkscape:cy="164.125"
+     inkscape:window-width="3790"
+     inkscape:window-height="2058"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g217356"
+     inkscape:current-layer="layer2-9"
      showborder="false"
      showguides="false">
     <inkscape:grid
@@ -208,7 +208,7 @@
        transform="rotate(-90,680.63786,300.3884)"><tspan
          x="629.49805"
          y="348.44222"
-         id="tspan8321">Z280IT008 (2.8&quot;)</tspan></text>
+         id="tspan3169">Z280IT008 (2.8&quot;)</tspan></text>
   </g>
   <g
      inkscape:label="F.SilkS"
@@ -819,12 +819,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1000%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:-0.396875px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:0.330729px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-       x="4.9946933"
+       x="5.2446933"
        y="31.139446"
        id="text92889"><tspan
          sodipodi:role="line"
          id="tspan92887"
-         x="4.9946933"
+         x="5.2446933"
          y="31.139446"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eaa313;fill-opacity:1;stroke-width:0.330729px">Start</tspan></text>
     <text
@@ -2852,7 +2852,8 @@
        d="m 75.299796,98.455575 h -0.53375"
        id="path5273-5-1-5-97-7-0-7-0-8" />
     <g
-       id="g47519">
+       id="g47519"
+       transform="translate(0.25)">
       <g
          id="g47283">
         <g
@@ -4030,7 +4031,7 @@
      style="display:inline">
     <g
        id="g92879"
-       transform="matrix(0,0.35277264,-0.35277777,0,104.38558,-174.74827)"
+       transform="matrix(0,0.35277264,-0.35277777,0,104.63558,-174.74827)"
        style="display:inline;stroke-width:1.00001">
       <g
          id="g1836-2"
@@ -4645,7 +4646,7 @@
     </g>
     <g
        id="g47068"
-       transform="matrix(0.35277777,0,0,0.35277777,-119.33483,-36.174217)"
+       transform="matrix(0.35277777,0,0,0.35277777,-119.08483,-36.174217)"
        style="display:inline">
       <path
          d="m 388.79914,241.47822 -15.481,15.48077"
