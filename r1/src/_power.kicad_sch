@@ -1817,7 +1817,7 @@
     (property "Value" "K3-1296S-J1" (at 168.3258 125.603 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "jeffmakes-footprints:SW_JS102011SAQN" (at 163.83 124.46 0)
+    (property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12" (at 163.83 124.46 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "None" (at 163.83 124.46 0)
