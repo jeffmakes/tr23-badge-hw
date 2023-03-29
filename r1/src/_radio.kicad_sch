@@ -2922,7 +2922,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 73.66 68.58 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de539ef)
     (property "Reference" "TP34" (at 71.12 66.675 90)
       (effects (font (size 1.27 1.27)))
@@ -2947,7 +2947,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 73.66 71.12 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005de53bc8)
     (property "Reference" "TP35" (at 71.12 69.215 90)
       (effects (font (size 1.27 1.27)))
@@ -3440,7 +3440,7 @@
   )
 
   (symbol (lib_id "Device:Antenna") (at 227.965 123.19 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dece9b3)
     (property "Reference" "AE1" (at 229.997 123.4694 0)
       (effects (font (size 1.27 1.27)) (justify left))
