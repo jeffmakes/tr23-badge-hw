@@ -1,4 +1,4 @@
-(kicad_sch (version 20230221) (generator eeschema)
+(kicad_sch (version 20230409) (generator eeschema)
 
   (uuid c4e59d92-2ad3-4129-8764-3723e751bbea)
 
@@ -851,11 +851,13 @@
     (uuid fea3a460-73c9-46ed-92f5-9b9214e9ca72)
   )
 
-  (text "Address = 0x21" (at 81.28 90.17 0)
+  (text "Address = 0x21" (exclude_from_sim no)
+ (at 81.28 90.17 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e2c7d5c1-d509-411a-a19d-a1be8f05dbf2)
   )
-  (text "Address = 0x22" (at 81.28 163.83 0)
+  (text "Address = 0x22" (exclude_from_sim no)
+ (at 81.28 163.83 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f067ea3f-871f-4b0e-923a-13c73207bc79)
   )

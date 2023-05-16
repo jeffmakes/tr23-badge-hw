@@ -1,4 +1,4 @@
-(kicad_sch (version 20230221) (generator eeschema)
+(kicad_sch (version 20230409) (generator eeschema)
 
   (uuid 3517ea08-2118-45a3-9015-acff9794901c)
 
@@ -1291,7 +1291,8 @@
     (uuid f765f1d8-4334-404b-9d9e-14924f500a92)
   )
 
-  (text "I_chg = 1A\n" (at 95.25 113.03 90)
+  (text "I_chg = 1A\n" (exclude_from_sim no)
+ (at 95.25 113.03 90)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4b258e8c-c79a-48f1-9bd0-2b107838ca3e)
   )

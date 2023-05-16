@@ -1,4 +1,4 @@
-(kicad_sch (version 20230221) (generator eeschema)
+(kicad_sch (version 20230409) (generator eeschema)
 
   (uuid bd340fd1-aeca-4fe5-a01e-dc1036e561d5)
 
@@ -1117,7 +1117,8 @@
     (uuid fbe22469-727a-4293-85ab-0fdd5909a47f)
   )
 
-  (text "Speaker" (at 248.285 121.92 0)
+  (text "Speaker" (exclude_from_sim no)
+ (at 248.285 121.92 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 17e70c50-d7c4-46dc-aadb-d425572af236)
   )

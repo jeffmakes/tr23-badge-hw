@@ -1,4 +1,4 @@
-(kicad_sch (version 20230221) (generator eeschema)
+(kicad_sch (version 20230409) (generator eeschema)
 
   (uuid bf7ca006-9c46-488a-993d-3a1a185c7eb5)
 
@@ -896,7 +896,8 @@
     (uuid fff35cd5-088f-4cfa-be04-4e0484ef8584)
   )
 
-  (text "Address = 0x20" (at 81.28 97.79 0)
+  (text "Address = 0x20" (exclude_from_sim no)
+ (at 81.28 97.79 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 46b95fb6-ab12-4dd7-b5d4-5da0066b2516)
   )
