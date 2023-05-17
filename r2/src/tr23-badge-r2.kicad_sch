@@ -1713,7 +1713,7 @@
     (property "Value" "ESP32-WROVER-E-N16R8" (at 81.28 29.8196 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "jeffmakes-footprints:ESP32-WROVER-I" (at 81.28 62.23 0)
+    (property "Footprint" "jeffmakes-footprints:ESP32-WROVER" (at 81.28 62.23 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "Module Espressif Systems" (at 81.28 62.23 0)
