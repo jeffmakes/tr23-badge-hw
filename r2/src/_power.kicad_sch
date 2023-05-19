@@ -2044,7 +2044,7 @@
     (property "Reference" "R9" (at 118.618 99.1616 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (at 118.618 101.473 0)
+    (property "Value" "10k" (at 118.618 101.473 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 115.062 100.33 90)
