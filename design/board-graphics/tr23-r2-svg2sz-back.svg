@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.828427"
-     inkscape:cx="305.64692"
-     inkscape:cy="319.08195"
+     inkscape:zoom="5.656854"
+     inkscape:cx="222.82703"
+     inkscape:cy="418.34207"
      inkscape:window-width="2967"
      inkscape:window-height="2058"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g217350"
+     inkscape:current-layer="g402067"
      showborder="false"
      showguides="true">
     <inkscape:grid
@@ -200,7 +200,7 @@
        transform="rotate(-90,680.63786,300.3884)"><tspan
          x="629.49805"
          y="348.44222"
-         id="tspan441610">Z280IT008 (2.8&quot;)</tspan></text>
+         id="tspan460141">Z280IT008 (2.8&quot;)</tspan></text>
   </g>
   <g
      inkscape:label="F.SilkS-disable"
@@ -50618,26 +50618,26 @@
            y="248.65939" /></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.76162px;line-height:100%;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:-0.264583px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:0.294209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.76162px;line-height:92%;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:-0.264583px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:0.294209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          x="112.90073"
-         y="-49.089626"
+         y="-49.43108"
          id="text31556-3-3"
          transform="rotate(90)"><tspan
            sodipodi:role="line"
            x="112.90073"
-           y="-49.089626"
+           y="-49.43108"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.76162px;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#eaa313;fill-opacity:1;stroke-width:0.294209px"
            id="tspan31554-6-7"
            dx="0 0 -0.25 -0.25">Shitty</tspan><tspan
            sodipodi:role="line"
            x="112.90073"
-           y="-46.328007"
+           y="-46.890388"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.76162px;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#eaa313;fill-opacity:1;stroke-width:0.294209px"
            dx="0 0 0 0 0 0 0 -0.25 -0.25"
            id="tspan104829">Addon</tspan><tspan
            sodipodi:role="line"
            x="112.90073"
-           y="-43.566387"
+           y="-44.349697"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.76162px;font-family:'Commodore 64 Pixelized';-inkscape-font-specification:'Commodore 64 Pixelized, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#eaa313;fill-opacity:1;stroke-width:0.294209px"
            dx="0 0 -0.25 -0.25"
            id="tspan104827" /></text>
@@ -50655,9 +50655,9 @@
            inkscape:transform-center-y="0.97280888"><tspan
              x="0"
              y="0"
-             id="tspan441614"><tspan
+             id="tspan460145"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan441612">credits:</tspan></tspan></text>
+               id="tspan460143">credits:</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:40%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect3151-7);shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -50669,21 +50669,21 @@
            inkscape:transform-center-y="0.97280888"><tspan
              x="0"
              y="0"
-             id="tspan441618"><tspan
+             id="tspan460149"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan441616">badge.team
+               id="tspan460147">badge.team
 </tspan></tspan><tspan
              x="0"
              y="8.3707496"
-             id="tspan441622"><tspan
+             id="tspan460153"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan441620">allnet.de
+               id="tspan460151">allnet.de
 </tspan></tspan><tspan
              x="0"
              y="16.741499"
-             id="tspan441626"><tspan
+             id="tspan460157"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan441624">norbert</tspan></tspan></text>
+               id="tspan460155">norbert</tspan></tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -50696,9 +50696,9 @@
          inkscape:transform-center-y="0.97280888"><tspan
            x="0"
            y="0"
-           id="tspan441630"><tspan
+           id="tspan460161"><tspan
              style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan441628">Monad.is 2023</tspan></tspan></text>
+             id="tspan460159">Monad.is 2023</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:40%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect3151-7);shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -50710,15 +50710,15 @@
          inkscape:transform-center-y="0.97280888"><tspan
            x="0"
            y="0"
-           id="tspan441634"><tspan
+           id="tspan460165"><tspan
              style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan441632">Malte Heinzelmann @hnzlmnn
+             id="tspan460163">Malte Heinzelmann @hnzlmnn
 </tspan></tspan><tspan
            x="0"
            y="8.3707496"
-           id="tspan441638"><tspan
+           id="tspan460169"><tspan
              style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan441636">Jeff Gough @jeffmakes</tspan></tspan></text>
+             id="tspan460167">Jeff Gough @jeffmakes</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:40%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect3151-7);shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -50730,21 +50730,21 @@
          inkscape:transform-center-y="0.97280888"><tspan
            x="0"
            y="0"
-           id="tspan441642"><tspan
+           id="tspan460173"><tspan
              style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan441640">IT'S DANGEROUS TO GO
+             id="tspan460171">IT'S DANGEROUS TO GO
 </tspan></tspan><tspan
            x="0"
            y="8.3707496"
-           id="tspan441646"><tspan
+           id="tspan460177"><tspan
              style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan441644">ALONE!
+             id="tspan460175">ALONE!
 </tspan></tspan><tspan
            x="0"
            y="16.741499"
-           id="tspan441650"><tspan
+           id="tspan460181"><tspan
              style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan441648">TAKE THIS.</tspan></tspan></text>
+             id="tspan460179">TAKE THIS.</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:40%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect3151-7);shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -50756,23 +50756,23 @@
          inkscape:transform-center-y="-0.28309698"><tspan
            x="0"
            y="0"
-           id="tspan441654"><tspan
+           id="tspan460185"><tspan
              style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan441652">tr23-r2</tspan></tspan></text>
+             id="tspan460183">tr23-r2</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:40%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect3151-7);shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
          x="361.26874"
          y="534.29724"
          id="text16700-8-4-6-6-7-1"
-         transform="matrix(0,0.26458333,-0.26458333,0,57.613564,108.66965)"
+         transform="matrix(0,0.26458333,-0.26458333,0,57.613564,108.61634)"
          inkscape:transform-center-x="-0.28309731"
          inkscape:transform-center-y="-0.061596937"><tspan
            x="0"
            y="0"
-           id="tspan441658"><tspan
+           id="tspan460189"><tspan
              style="font-size:8px;font-family:'Munro Small';-inkscape-font-specification:'Munro Small, Normal'"
-             id="tspan441656">1</tspan></tspan></text>
+             id="tspan460187">1</tspan></tspan></text>
       <g
          id="g45825"
          transform="rotate(90,80.098265,115.76281)">
@@ -50787,21 +50787,21 @@
            inkscape:transform-center-y="0.97280888"><tspan
              x="0"
              y="0"
-             id="tspan441662"><tspan
+             id="tspan460193"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan441660">3V3
+               id="tspan460191">3V3
 </tspan></tspan><tspan
              x="0"
              y="6.7707497"
-             id="tspan441666"><tspan
+             id="tspan460197"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan441664">SDA
+               id="tspan460195">SDA
 </tspan></tspan><tspan
              x="0"
              y="13.541499"
-             id="tspan441670"><tspan
+             id="tspan460201"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan441668">IO1</tspan></tspan></text>
+               id="tspan460199">IO1</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:30%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect3151-7);shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -50813,21 +50813,21 @@
            inkscape:transform-center-y="0.97280888"><tspan
              x="-11.71875"
              y="0"
-             id="tspan441674"><tspan
+             id="tspan460205"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal';text-align:end;text-anchor:end"
-               id="tspan441672">GND
+               id="tspan460203">GND
 </tspan></tspan><tspan
              x="-9.375"
              y="6.7707497"
-             id="tspan441678"><tspan
+             id="tspan460209"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal';text-align:end;text-anchor:end"
-               id="tspan441676">SCL
+               id="tspan460207">SCL
 </tspan></tspan><tspan
              x="-8.59375"
              y="13.541499"
-             id="tspan441682"><tspan
+             id="tspan460213"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal';text-align:end;text-anchor:end"
-               id="tspan441680">IO2</tspan></tspan></text>
+               id="tspan460211">IO2</tspan></tspan></text>
       </g>
     </g>
   </g>
