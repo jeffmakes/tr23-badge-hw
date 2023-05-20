@@ -1986,9 +1986,9 @@
     (property "LCSC" "C909754" (at 55.88 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 28d9d7ed-8fa7-47f1-908c-eb18c342f0c5))
-    (pin "2" (uuid 8229091e-5835-467e-af08-c4ce1d42fe4c))
-    (pin "3" (uuid 67252736-4872-479a-a7b1-f10551861fb3))
+    (pin "1" (uuid 7b88efde-c6e8-4b8a-ae0e-51ab798a4377))
+    (pin "2" (uuid b75c16c5-5fc9-4ce8-a319-4893cade236b))
+    (pin "3" (uuid 05b54ce2-d138-4679-98eb-471c56d8251f))
     (instances
       (project "tr23-badge-r2"
         (path "/ab725fe7-4504-40ef-b6af-82d065d00fb6"
