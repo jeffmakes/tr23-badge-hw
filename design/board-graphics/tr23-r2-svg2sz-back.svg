@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="5.656854"
-     inkscape:cx="222.82703"
-     inkscape:cy="418.34207"
+     inkscape:zoom="2.828427"
+     inkscape:cx="202.76288"
+     inkscape:cy="265.69538"
      inkscape:window-width="2967"
      inkscape:window-height="2058"
      inkscape:window-x="0"
@@ -200,7 +200,7 @@
        transform="rotate(-90,680.63786,300.3884)"><tspan
          x="629.49805"
          y="348.44222"
-         id="tspan460141">Z280IT008 (2.8&quot;)</tspan></text>
+         id="tspan495059">Z280IT008 (2.8&quot;)</tspan></text>
   </g>
   <g
      inkscape:label="F.SilkS-disable"
@@ -49983,21 +49983,10 @@
          x="-48.926411"
          y="133.41508"
          transform="scale(-1,1)" />
-      <rect
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.266872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+      <path
          id="rect31128"
-         width="4.4478621"
-         height="4.4478621"
-         x="-57.822117"
-         y="137.86293"
-         transform="scale(-1,1)" />
-      <rect
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.266872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         id="rect31130"
-         width="4.4478621"
-         height="4.4478621"
-         x="-62.270027"
-         y="137.86751"
+         style="display:inline;vector-effect:none;fill:#eaa313;fill-rule:evenodd;stroke-width:0.266872;stroke-miterlimit:10;stop-color:#000000"
+         d="M -48.926213 137.8629 L -48.926213 142.31069 L -53.37452 142.31069 L -57.82231 142.31069 L -57.82231 142.31534 L -62.270101 142.31534 L -62.270101 137.86755 L -57.82231 137.86755 L -57.82231 137.8629 L -53.37452 137.8629 L -53.374003 137.8629 L -48.926213 137.8629 z M -50.16438 139.34757 L -50.371086 139.34757 L -50.371086 139.76098 L -50.577791 139.76098 L -50.577791 139.96768 L -50.784497 139.96768 L -50.784497 139.76098 L -50.991203 139.76098 L -50.991203 139.34757 L -51.197909 139.34757 L -51.197909 140.79451 L -50.991203 140.79451 L -50.991203 139.96768 L -50.784497 139.96768 L -50.784497 140.17439 L -50.577791 140.17439 L -50.577791 139.96768 L -50.371086 139.96768 L -50.371086 140.79451 L -50.16438 140.79451 L -50.16438 139.34757 z M -55.125317 139.34757 L -55.332023 139.34757 L -55.332023 140.79451 L -54.711906 140.79451 L -54.711906 140.5878 L -54.5052 140.5878 L -54.5052 139.96768 L -54.711906 139.96768 L -54.711906 139.76098 L -55.125317 139.76098 L -55.125317 139.34757 z M -54.711906 139.96768 L -54.711906 140.5878 L -55.125317 140.5878 L -55.125317 139.96768 L -54.711906 139.96768 z M -55.95214 139.34757 L -56.158846 139.34757 L -56.158846 139.55427 L -55.95214 139.55427 L -55.95214 139.34757 z M -58.846021 139.34757 L -59.259432 139.34757 L -59.259432 139.55427 L -59.466138 139.55427 L -59.466138 140.5878 L -59.259432 140.5878 L -59.259432 140.79451 L -58.846021 140.79451 L -58.846021 140.5878 L -58.639315 140.5878 L -58.639315 139.55427 L -58.846021 139.55427 L -58.846021 139.34757 z M -58.846021 139.55427 L -58.846021 140.5878 L -59.259432 140.5878 L -59.259432 139.55427 L -58.846021 139.55427 z M -60.499666 139.34757 L -60.913078 139.34757 L -60.913078 139.55427 L -61.119784 139.55427 L -61.119784 139.96768 L -60.913078 139.96768 L -60.913078 140.17439 L -61.119784 140.17439 L -61.119784 140.5878 L -60.913078 140.5878 L -60.913078 140.79451 L -60.499666 140.79451 L -60.499666 140.5878 L -60.913078 140.5878 L -60.913078 140.17439 L -60.499666 140.17439 L -60.499666 139.96768 L -60.913078 139.96768 L -60.913078 139.55427 L -60.499666 139.55427 L -60.499666 139.34757 z M -57.812492 139.3486 L -58.225903 139.3486 L -58.225903 139.55531 L -58.432609 139.55531 L -58.432609 139.96872 L -58.225903 139.96872 L -58.225903 140.17542 L -58.019198 140.17542 L -58.019198 140.5878 L -58.432609 140.5878 L -58.432609 140.79451 L -57.812492 140.79451 L -57.812492 140.17542 L -58.019198 140.17542 L -58.019198 139.96872 L -58.225903 139.96872 L -58.225903 139.55531 L -57.812492 139.55531 L -57.812492 139.3486 z M -59.672843 139.3486 L -60.086255 139.3486 L -60.086255 139.55531 L -60.292961 139.55531 L -60.292961 139.96872 L -60.086255 139.96872 L -60.086255 140.17542 L -59.879549 140.17542 L -59.879549 140.5878 L -60.292961 140.5878 L -60.292961 140.79451 L -59.672843 140.79451 L -59.672843 140.17542 L -59.879549 140.17542 L -59.879549 139.96872 L -60.086255 139.96872 L -60.086255 139.55531 L -59.672843 139.55531 L -59.672843 139.3486 z M -51.61132 139.76098 L -52.024731 139.76098 L -52.024731 139.96768 L -52.231437 139.96768 L -52.231437 140.5878 L -52.024731 140.5878 L -52.024731 140.79451 L -51.61132 140.79451 L -51.61132 140.5878 L -51.404614 140.5878 L -51.404614 139.96768 L -51.61132 139.96768 L -51.61132 139.76098 z M -51.61132 139.96768 L -51.61132 140.5878 L -52.024731 140.5878 L -52.024731 139.96768 L -51.61132 139.96768 z M -52.644849 139.76098 L -53.05826 139.76098 L -53.05826 139.96768 L -53.264966 139.96768 L -53.264966 140.79451 L -53.05826 140.79451 L -53.05826 139.96768 L -52.644849 139.96768 L -52.644849 140.79451 L -52.438143 140.79451 L -52.438143 139.96768 L -52.644849 139.96768 L -52.644849 139.76098 z M -53.678377 139.76098 L -54.091789 139.76098 L -54.091789 139.96768 L -54.298494 139.96768 L -54.298494 140.79451 L -53.678377 140.79451 L -53.678377 140.5878 L -53.471672 140.5878 L -53.471672 140.3811 L -53.678377 140.3811 L -53.678377 140.17439 L -54.091789 140.17439 L -54.091789 139.96768 L -53.678377 139.96768 L -53.678377 139.76098 z M -53.678377 140.3811 L -53.678377 140.5878 L -54.091789 140.5878 L -54.091789 140.3811 L -53.678377 140.3811 z M -55.95214 139.76098 L -56.158846 139.76098 L -56.158846 140.79451 L -55.95214 140.79451 L -55.95214 139.76098 z M -56.572257 139.76098 L -56.985669 139.76098 L -56.985669 139.96768 L -56.572257 139.96768 L -56.572257 140.17439 L -56.778963 140.17439 L -56.778963 140.3811 L -56.985669 140.3811 L -56.985669 140.5878 L -56.778963 140.5878 L -56.778963 140.79451 L -56.365552 140.79451 L -56.365552 140.5878 L -56.778963 140.5878 L -56.778963 140.3811 L -56.572257 140.3811 L -56.572257 140.17439 L -56.365552 140.17439 L -56.365552 139.96768 L -56.572257 139.96768 L -56.572257 139.76098 z M -55.538729 140.5878 L -55.745435 140.5878 L -55.745435 140.79451 L -55.538729 140.79451 L -55.538729 140.5878 z "
          transform="scale(-1,1)" />
       <rect
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.266872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
@@ -50274,13 +50263,6 @@
          height="4.4478621"
          x="62.270039"
          y="133.41508" />
-      <rect
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.266872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         id="rect31210"
-         width="4.4478621"
-         height="4.4478621"
-         x="48.926411"
-         y="137.86295" />
       <rect
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.266872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          id="rect31212"
@@ -50655,9 +50637,9 @@
            inkscape:transform-center-y="0.97280888"><tspan
              x="0"
              y="0"
-             id="tspan460145"><tspan
+             id="tspan495063"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan460143">credits:</tspan></tspan></text>
+               id="tspan495061">credits:</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:40%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect3151-7);shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -50669,36 +50651,22 @@
            inkscape:transform-center-y="0.97280888"><tspan
              x="0"
              y="0"
-             id="tspan460149"><tspan
+             id="tspan495067"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan460147">badge.team
+               id="tspan495065">badge.team
 </tspan></tspan><tspan
              x="0"
              y="8.3707496"
-             id="tspan460153"><tspan
+             id="tspan495071"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan460151">allnet.de
+               id="tspan495069">allnet.de
 </tspan></tspan><tspan
              x="0"
              y="16.741499"
-             id="tspan460157"><tspan
+             id="tspan495075"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan460155">norbert</tspan></tspan></text>
+               id="tspan495073">norbert</tspan></tspan></text>
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:10px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect3151-7);shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-         x="361.26874"
-         y="534.29724"
-         id="text16700-8-4-7"
-         transform="matrix(0.26458333,0,0,0.26458333,50.164514,140.79467)"
-         inkscape:transform-center-x="9.8185226"
-         inkscape:transform-center-y="0.97280888"><tspan
-           x="0"
-           y="0"
-           id="tspan460161"><tspan
-             style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan460159">Monad.is 2023</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:40%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect3151-7);shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -50710,15 +50678,15 @@
          inkscape:transform-center-y="0.97280888"><tspan
            x="0"
            y="0"
-           id="tspan460165"><tspan
+           id="tspan495079"><tspan
              style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan460163">Malte Heinzelmann @hnzlmnn
+             id="tspan495077">Malte Heinzelmann @hnzlmnn
 </tspan></tspan><tspan
            x="0"
            y="8.3707496"
-           id="tspan460169"><tspan
+           id="tspan495083"><tspan
              style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan460167">Jeff Gough @jeffmakes</tspan></tspan></text>
+             id="tspan495081">Jeff Gough @jeffmakes</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:40%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect3151-7);shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -50730,21 +50698,21 @@
          inkscape:transform-center-y="0.97280888"><tspan
            x="0"
            y="0"
-           id="tspan460173"><tspan
+           id="tspan495087"><tspan
              style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan460171">IT'S DANGEROUS TO GO
+             id="tspan495085">IT'S DANGEROUS TO GO
 </tspan></tspan><tspan
            x="0"
            y="8.3707496"
-           id="tspan460177"><tspan
+           id="tspan495091"><tspan
              style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan460175">ALONE!
+             id="tspan495089">ALONE!
 </tspan></tspan><tspan
            x="0"
            y="16.741499"
-           id="tspan460181"><tspan
+           id="tspan495095"><tspan
              style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan460179">TAKE THIS.</tspan></tspan></text>
+             id="tspan495093">TAKE THIS.</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:40%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect3151-7);shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -50756,9 +50724,9 @@
          inkscape:transform-center-y="-0.28309698"><tspan
            x="0"
            y="0"
-           id="tspan460185"><tspan
+           id="tspan495099"><tspan
              style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-             id="tspan460183">tr23-r2</tspan></tspan></text>
+             id="tspan495097">tr23-r2</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:40%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect3151-7);shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -50770,9 +50738,9 @@
          inkscape:transform-center-y="-0.061596937"><tspan
            x="0"
            y="0"
-           id="tspan460189"><tspan
+           id="tspan495103"><tspan
              style="font-size:8px;font-family:'Munro Small';-inkscape-font-specification:'Munro Small, Normal'"
-             id="tspan460187">1</tspan></tspan></text>
+             id="tspan495101">1</tspan></tspan></text>
       <g
          id="g45825"
          transform="rotate(90,80.098265,115.76281)">
@@ -50787,21 +50755,21 @@
            inkscape:transform-center-y="0.97280888"><tspan
              x="0"
              y="0"
-             id="tspan460193"><tspan
+             id="tspan495107"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan460191">3V3
+               id="tspan495105">3V3
 </tspan></tspan><tspan
              x="0"
              y="6.7707497"
-             id="tspan460197"><tspan
+             id="tspan495111"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan460195">SDA
+               id="tspan495109">SDA
 </tspan></tspan><tspan
              x="0"
              y="13.541499"
-             id="tspan460201"><tspan
+             id="tspan495115"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal'"
-               id="tspan460199">IO1</tspan></tspan></text>
+               id="tspan495113">IO1</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:30%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect3151-7);shape-padding:0;shape-margin:0;display:inline;vector-effect:none;fill:#eaa313;fill-opacity:1;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -50813,21 +50781,21 @@
            inkscape:transform-center-y="0.97280888"><tspan
              x="-11.71875"
              y="0"
-             id="tspan460205"><tspan
+             id="tspan495119"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal';text-align:end;text-anchor:end"
-               id="tspan460203">GND
+               id="tspan495117">GND
 </tspan></tspan><tspan
              x="-9.375"
              y="6.7707497"
-             id="tspan460209"><tspan
+             id="tspan495123"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal';text-align:end;text-anchor:end"
-               id="tspan460207">SCL
+               id="tspan495121">SCL
 </tspan></tspan><tspan
              x="-8.59375"
              y="13.541499"
-             id="tspan460213"><tspan
+             id="tspan495127"><tspan
                style="font-size:8px;font-family:Munro;-inkscape-font-specification:'Munro, Normal';text-align:end;text-anchor:end"
-               id="tspan460211">IO2</tspan></tspan></text>
+               id="tspan495125">IO2</tspan></tspan></text>
       </g>
     </g>
   </g>
