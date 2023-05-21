@@ -3,3 +3,10 @@
 	(condition "A.insideArea('fp-rule-area') && A.Type == 'Pad'")
 	(constraint hole_clearance(min 0mm))
 )
+(rule holes_in_pads
+	(constraint physical_hole_clearance (min 0.1mm))
+	(condition "B.Pad_Type == 'SMD' && !B.memberOfFootprint('AE1') && !B.memberOfFootprint('U9') && !B.memberOfFootprint('J5') && !B.memberOfFootprint('U9') && !B.memberOfFootprint('J6')")
+)
+(rule "Distance between test points"
+	(constraint courtyard_clearance (min 0.002mm))
+	(condition "A.Reference =='TP*' && B.Reference == 'TP*"))
