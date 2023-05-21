@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Troopers 23 Badge")
+    (rev "r2")
+    (company "Monad Gottfried Ltd. 2023")
+    (comment 1 "for ERNW Enno Rey Netzwerke GmbH")
+  )
+
   (lib_symbols
     (symbol "Battery_Management:MCP73831-2-OT" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -7.62 6.35 0)

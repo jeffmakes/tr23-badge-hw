@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Troopers 23 Badge")
+    (rev "r2")
+    (company "Monad Gottfried Ltd. 2023")
+    (comment 1 "for ERNW Enno Rey Netzwerke GmbH")
+  )
+
   (lib_symbols
     (symbol "Connector:USB_A" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at -5.08 11.43 0)
