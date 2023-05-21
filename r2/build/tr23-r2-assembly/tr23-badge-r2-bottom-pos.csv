@@ -29,7 +29,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "C26","1uF","C_0603_1608Metric",-8.888800,109.062200,-90.000000,bottom
 "C27","1uF","C_0603_1608Metric",-10.362000,109.062200,-90.000000,bottom
 "C28","1uF","C_0603_1608Metric",-6.452000,113.913600,90.000000,bottom
-"C29","1uF","C_0603_1608Metric",-6.452000,110.950000,90.000000,bottom
+"C29","1uF","C_0603_1608Metric",-6.852000,110.807500,90.000000,bottom
 "C30","1uF","C_0603_1608Metric",-8.369200,116.690200,-90.000000,bottom
 "C31","100nF","C_0402_1005Metric",-46.052000,81.007500,-90.000000,bottom
 "C32","100nF","C_0402_1005Metric",-37.302000,45.907500,90.000000,bottom
@@ -93,7 +93,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "J1","532610271","Molex_PicoBlade_53261-0271_1x02-1MP_P1.25mm_Horizontal",7.998000,118.375000,90.000000,bottom
 "J2","TYPE-C3","jing-usb-c-lcsc-C167321",28.298000,126.800000,-0.000000,bottom
 "J3","USB-A-10mm-flangeless","USB-A-short-body",-28.302000,124.550000,-0.000000,bottom
-"J4","AFC07-S40ECA-00","AFC07x40-1MP_P0.5mm_Horizontal_reverse_pinout",-1.852000,103.315000,-90.000000,bottom
+"J4","AFC07-S40ECA-00","AFC07x40-1MP_P0.5mm_Horizontal_reverse_pinout",-2.852000,103.315000,-90.000000,bottom
 "J5","PJ-320D","Jack_3.5mm_PJ320D_Horizontal_strengthening-vias",42.748000,120.475000,-90.000000,bottom
 "J6","2x03-socket-2.54-through-board","PinSocket_2x03_P2.54mm_Through-Board-Mating",0.005000,29.282000,-0.000000,bottom
 "J7","TF-15x15","microSD_HC_Sofng_TF-15",48.798000,93.400000,-90.000000,bottom
@@ -156,9 +156,9 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R31","0R","R_0402_1005Metric",-14.551857,22.736179,45.000000,bottom
 "R32","10R","R_0402_1005Metric",-6.702000,107.800000,-90.000000,bottom
 "R33","10R","R_0402_1005Metric",-46.052000,84.757500,-90.000000,bottom
-"R34","1k","R_0402_1005Metric",-5.252000,114.457500,-90.000000,bottom
-"R35","1k","R_0402_1005Metric",-4.752000,117.207500,90.000000,bottom
-"R36","1k","R_0402_1005Metric",-5.702000,117.207500,90.000000,bottom
+"R34","1k","R_0402_1005Metric",-1.952000,117.107500,0.000000,bottom
+"R35","1k","R_0402_1005Metric",-3.852000,117.107500,0.000000,bottom
+"R36","1k","R_0402_1005Metric",-5.802000,117.107500,180.000000,bottom
 "S1","Orange","SW_SPST_TACT-6x6-no-silk",-10.002000,134.400000,180.000000,bottom
 "S2","Orange","SW_SPST_TACT-6x6-no-silk",9.998000,134.400000,-0.000000,bottom
 "S3","K3-1296S-J1","SW_SPDT_PCM12",51.818000,108.200000,-90.000000,bottom
