@@ -2779,7 +2779,7 @@
     (property "Reference" "SPEAKER1" (at 261.62 146.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "FS1511P01-H40" (at 261.62 148.59 0)
+    (property "Value" "FS1511P01-H35" (at 261.62 148.59 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "jeffmakes-footprints:FS1511P01" (at 251.46 147.32 0)
